@@ -9,20 +9,31 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-table@1.23.5/dist/bootstrap-table.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
     <link rel="stylesheet" href="assets/style.css">
-<script defer src="main.bundle.js?3fec45154864805d5ea3"></script></head>
+
+<script defer src="main.bundle.js?f9472870bb194a395e99"></script></head>
 
 <body>
     <div class="container my-2">
+
         <div class="row mb-2">
-            <div class="col col-auto">
+            <div class="col col-auto my-auto">
+                <a class="navbar-brand" href="">
+                    <img src="assets/jres-logo.png" alt="logo-jres" height="60">
+                </a>
+            </div>
+            <div class="col col-auto my-auto">
                 <input id="input-search" type="text" placeholder="Search..." />
-                <button id="btn-search" class="btn btn-primary">Rechercher</button>
-                <button class="btn btn-secondary" type="button" data-bs-toggle="collapse"
+            </div>
+            <div class="col col-auto my-auto">
+                <button id="btn-search" class="btn btn-primary btn-lg">Rechercher</button>
+            </div>
+            <div class="col col-auto my-auto">
+                <button class="btn btn-primary" type="button" data-bs-toggle="collapse"
                         data-bs-target="#content-help" aria-expanded="false" aria-controls="content-help">
                     Aide sur la recherche
                 </button>
-
             </div>
+
         </div>
         <div class="row">
             <div id="error" class="col col-auto">
@@ -34,7 +45,7 @@
                 <div class="collapse" id="content-help">
                     <div class="card card-body">
                         <p>Rechercher sur un champ: <code>champ:terme</code></p>
-                        <p>Les champs disponibles sont: titre, résumé, motsclés, theme, type, édition, auteur, organisme
+                        <p>Les champs disponibles sont: titre, résumé, motsclés, thème, type, édition, auteur, organisme
                         </p>
                         <p>Rechercher avec un wildcard: <code>terme*</code></p>
                         <p>Rechercher avec une approximation: <code>terme~1</code></p>
@@ -46,11 +57,12 @@
         <hr />
         <div class="row">
             <div class="col col-auto">
-                <button id="btn-expand" class="btn btn-secondary">Ouvrir les détails des résultats</button>
+                <button id="btn-expand" class="btn btn-primary">Ouvrir les détails des résultats</button>
             </div>
         </div>
     </div>
 
+    <!-- Table -->
     <div class="container mb-5">
         <table id="table"
                class="table"

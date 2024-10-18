@@ -1,3 +1,62 @@
+:root {
+    --titlebar-height: 60px;
+
+    --primary-color: white;
+    --secondary-color: black;
+    --tertiary-color: #ececec;
+    --jres-color-bg: #fffce4;
+    --jres-color-base: #835a00;
+    --jres-color-light: #9c6c05;
+    --jres-color-lighter: #e4e2de;
+    --jres-color-dark: #745105;
+}
+
+
+.btn-primary,
+.btn-secondary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: var(--jres-color-base);
+    --bs-btn-border-color: var(--jres-color-base);
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #745105;
+    --bs-btn-hover-border-color: #745105;
+    --bs-btn-focus-shadow-rgb: 136, 97, 13;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #9c6c05;
+    --bs-btn-active-border-color: #9c6c05;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: var(--jres-color-base);
+    --bs-btn-disabled-border-color: var(--jres-color-base);
+}
+
+.pagination {
+    --bs-pagination-color: black;
+    --bs-pagination-bg: white;
+    --bs-pagination-border-color: var(--bs-border-color);
+    --bs-pagination-hover-color: black;
+    --bs-pagination-hover-bg: var(--bs-tertiary-bg);
+    --bs-pagination-hover-border-color: var(--bs-border-color);
+    --bs-pagination-focus-color: black;
+    --bs-pagination-focus-bg: var(--bs-secondary-bg);
+    --bs-pagination-focus-box-shadow: 0 0 0 0.25rem rgba(136, 97, 13, 0.25);
+    --bs-pagination-active-color: #fff;
+    --bs-pagination-active-bg: var(--jres-color-base);
+    --bs-pagination-active-border-color: var(--jres-color-base);
+    --bs-pagination-disabled-color: var(--bs-secondary-color);
+    --bs-pagination-disabled-bg: var(--bs-secondary-bg);
+    --bs-pagination-disabled-border-color: var(--bs-border-color);
+}
+
+.dropdown-menu {
+    --bs-dropdown-link-active-bg: var(--jres-color-base);
+}
+
+body {
+    background-color: var(--jres-color-bg);
+    color: var(--secondary-color);
+}
+
 .detail-view td {
     padding-bottom: 32px;
     -webkit-box-shadow: inset 2px -4px 24px -4px rgba(222, 222, 222, 1);
