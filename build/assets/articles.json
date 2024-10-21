@@ -3,7 +3,7 @@
     "title": "Transport de données sur ATM",
     "authors": [
       {
-        "name": "Roland Accra (CISCO)",
+        "name": "Roland Accra",
         "firstname": "Roland",
         "lastname": "Accra"
       }
@@ -25,9 +25,10 @@
     "title": "Messagerie multimédia : de SMTP à MIME/ESMTP",
     "authors": [
       {
-        "name": "A Durand (IMAG)",
+        "name": "Alain Durand",
         "lastname": "Durand",
-        "firstname": "Alain"
+        "firstname": "Alain",
+        "organisme": "IMAG"
       }
     ],
     "theme": "Réseau et infrastructures",
@@ -52,9 +53,10 @@
     "theme": "Réseau et infrastructures",
     "authors": [
       {
-        "name": "Isabelle Morel - (Renater)",
+        "name": "Isabelle Morel",
         "firstname": "Isabelle",
-        "lastname": "Morel"
+        "lastname": "Morel",
+        "organisme": "Renater"
       }
     ],
     "id": "morel",
@@ -69,14 +71,16 @@
     "type": "présentation longue",
     "authors": [
       {
-        "name": "C. Goutorbe (CICG)",
+        "name": "Claude Goutorbe",
         "lastname": "Goutorbe",
-        "firstname": "Claude"
+        "firstname": "Claude",
+        "organisme": "CICG"
       },
       {
-        "name": "L. Julliard (Centre de recherche Rank Xerox)",
+        "name": "Laurent Julliard",
         "firstname": "Laurent",
-        "lastname": "Julliard"
+        "lastname": "Julliard",
+        "organisme": "Centre de recherche Rank Xerox"
       }
     ],
     "theme": "Archivage pérenne",
@@ -95,9 +99,10 @@
     "type": "présentation longue",
     "authors": [
       {
-        "name": "C. Claveleira (Univ. Rennes)",
+        "name": "Claveleira Claveleira",
         "firstname": "Christian",
-        "lastname": "Claveleira"
+        "lastname": "Claveleira",
+        "organisme": "Université de Rennes 1"
       }
     ],
     "theme": "Environnements de travail collaboratif",
@@ -122,9 +127,10 @@
     ],
     "authors": [
       {
-        "name": "B. Tuy (CNRS/UREC)",
+        "name": "Bernard Tuy",
         "firstname": "Bernard",
-        "lastname": "Tuy"
+        "lastname": "Tuy",
+        "organisme": "CNRS/UREC"
       }
     ],
     "id": "IPv6",
@@ -141,19 +147,22 @@
     "keywords": [],
     "authors": [
       {
-        "name": "V.Baudin",
+        "name": "Véronique Baudin",
         "firstname": "Véronique",
-        "lastname": "Baudin"
+        "lastname": "Baudin",
+        "organisme": "LAAS"
       },
       {
-        "name": "M.Diaz (LAAS)",
+        "name": "Michel Diaz",
         "firstname": "Michel",
-        "lastname": "Diaz"
+        "lastname": "Diaz",
+        "organisme": "LAAS"
       },
       {
         "name": "Philippe Owezarski",
         "firstname": "Philippe",
-        "lastname": "Owezarski"
+        "lastname": "Owezarski",
+        "organisme": "LAAS"
       }
     ],
     "id": "cesame",
@@ -172,9 +181,10 @@
     "theme": "Réseau et infrastructures",
     "authors": [
       {
-        "name": "A. Aitsaidi (INRETS)",
+        "name": "Amirouche Aitsaidi",
         "firstname": "Amirouche",
-        "lastname": "Aitsaidi"
+        "lastname": "Aitsaidi",
+        "organisme": "INRETS"
       }
     ],
     "id": "aitsaidi",
@@ -191,9 +201,10 @@
     "keywords": [],
     "authors": [
       {
-        "name": "H. Le Crosnier",
+        "name": "Hervé Le Crosnier",
         "firstname": "Hervé",
-        "lastname": "Le Crosnier"
+        "lastname": "Le Crosnier",
+        "organisme": "Université de Caen"
       }
     ],
     "id": "le-crosnier",
@@ -210,9 +221,10 @@
     "keywords": [],
     "authors": [
       {
-        "name": "A. Le Meur (Univ. de Haute Bretagne)",
+        "name": "André Le Meur",
         "firstname": "André",
-        "lastname": "Le Meur"
+        "lastname": "Le Meur",
+        "organisme": "Université de Haute Bretagne"
       }
     ],
     "id": "lemeur",
@@ -232,9 +244,10 @@
     "id": "evol_www",
     "authors": [
       {
-        "name": "V. Quint (INRIA Rhone-Alpes)",
+        "name": "Vincent Quint",
         "firstname": "Vincent",
-        "lastname": "Quint"
+        "lastname": "Quint",
+        "organisme": "INRIA Rhone-Alpes"
       }
     ],
     "diaporamalink": "https://1995.jres.org/actes/appli3/1/quint.html",
@@ -251,9 +264,10 @@
     ],
     "authors": [
       {
-        "name": "G. Bourhis (CNRS/IDRIS)",
+        "name": "Gilles Bourhis",
         "firstname": "Gilles",
-        "lastname": "Bourhis"
+        "lastname": "Bourhis",
+        "organisme": "CNRS/IDRIS"
       }
     ],
     "id": "bourhis",
@@ -272,9 +286,10 @@
     ],
     "authors": [
       {
-        "name": "S. Langlois (EDF/DER)",
+        "name": "Sylvain Langlois",
         "firstname": "Sylvain",
-        "lastname": "Langlois"
+        "lastname": "Langlois",
+        "organisme": "EDF/DER"
       }
     ],
     "id": "nom_internet_langlois",
@@ -292,9 +307,10 @@
     ],
     "authors": [
       {
-        "name": "B. Tuy (CNRS/UREC)",
+        "name": "Bernard Tuy",
         "firstname": "Bernard",
-        "lastname": "TUY"
+        "lastname": "TUY",
+        "organisme": "CNRS/UREC"
       }
     ],
     "id": "tuy",
@@ -313,9 +329,10 @@
     ],
     "authors": [
       {
-        "name": "C. Claveleira (Univ. Rennes)",
+        "name": "Christian Claveleira",
         "firstname": "Christian",
-        "lastname": "Claveleira"
+        "lastname": "Claveleira",
+        "organisme": "Université de Rennes 1"
       }
     ],
     "id": "mbone",
@@ -332,14 +349,16 @@
     "keywords": [],
     "authors": [
       {
-        "name": "H. Schauer (Hervé Schauer Consultants)",
+        "name": "Hervé Schauer",
         "firstname": "Herve",
-        "lastname": "Schauer"
+        "lastname": "Schauer",
+        "organisme": "Hervé Schauer Consultants"
       },
       {
-        "name": "O. Perret (ENSTA)",
+        "name": "Olivier Perret",
         "firstname": "Olivier",
-        "lastname": "Perret"
+        "lastname": "Perret",
+        "organisme": "ENSTA"
       }
     ],
     "id": "hsc",
@@ -355,9 +374,10 @@
     "theme": "Systèmes",
     "authors": [
       {
-        "name": "G. Plançon (CNRS/IDRIS)",
+        "name": "Gilles Plançon",
         "firstname": "Gilles",
-        "lastname": "Plancon"
+        "lastname": "Plançon",
+        "organisme": "CNRS/IDRIS"
       }
     ],
     "id": "plancon",
@@ -380,9 +400,10 @@
     ],
     "authors": [
       {
-        "name": "D. Gueniche (CNRS Grenoble)",
+        "name": "Daniel Gueniche",
         "firstname": "Daniel",
-        "lastname": "Gueniche"
+        "lastname": "Gueniche",
+        "organisme": "CNRS Grenoble"
       }
     ],
     "id": "gueniche2",
@@ -401,9 +422,10 @@
     ],
     "authors": [
       {
-        "name": "C. Meessen (IN2P3)",
+        "name": "Christophe Meessen",
         "firstname": "Christophe",
-        "lastname": "Meessen"
+        "lastname": "Meessen",
+        "organisme": "IN2P3"
       }
     ],
     "id": "meessen",
@@ -420,9 +442,10 @@
     "keywords": [],
     "authors": [
       {
-        "name": "R. Giraud (Météo-FRANCE)",
+        "name": "Remy Giraud",
         "firstname": "Remy",
-        "lastname": "Giraud"
+        "lastname": "Giraud",
+        "organisme": "Météo-FRANCE"
       }
     ],
     "id": "giraud",
@@ -441,14 +464,16 @@
     ],
     "authors": [
       {
-        "name": "H. Prigent (CRIHAN)",
+        "name": "H.ervéPrigent",
         "firstname": "Herve",
-        "lastname": "Prigent"
+        "lastname": "Prigent",
+        "organisme": "CRIHAN"
       },
       {
-        "name": "Philippe Wender (INSA Rouen)",
+        "name": "Philippe Wender",
         "firstname": "Philippe",
-        "lastname": "Wender"
+        "lastname": "Wender",
+        "organisme": "INSA Rouen"
       }
     ],
     "id": "pepsy",
@@ -468,9 +493,10 @@
     ],
     "authors": [
       {
-        "name": "G. Requilé (LMGC)",
+        "name": "Gilles Requilé",
         "firstname": "Gilles",
-        "lastname": "Requilé"
+        "lastname": "Requilé",
+        "organisme": "LMGC"
       }
     ],
     "id": "requile",
@@ -490,14 +516,16 @@
     ],
     "authors": [
       {
-        "name": "S.Aumont (CRU)",
+        "name": "Serge Aumont",
         "firstname": "Serge",
-        "lastname": "Aumont"
+        "lastname": "Aumont",
+        "organisme": "CRU"
       },
       {
-        "name": "O.Germès (Univ. Rennes)",
+        "name": "Odile Germès",
         "firstname": "Odile",
-        "lastname": "Germes"
+        "lastname": "Germes",
+        "organisme": "Univiversité de Rennes 1"
       }
     ],
     "id": "listes",
@@ -516,14 +544,16 @@
     ],
     "authors": [
       {
-        "name": "L. Ahmadi (LITP/IBP)",
+        "name": "Laifa Ahmadi",
         "firstname": "Laifa",
-        "lastname": "Ahmadi"
+        "lastname": "Ahmadi",
+        "organisme": "LITP/IBP"
       },
       {
-        "name": "Z. Sami (LITP/IBP)",
+        "name": "Zoubir Sami",
         "firstname": "Zoubir",
-        "lastname": "Sami"
+        "lastname": "Sami",
+        "organisme": "LITP/IBP"
       }
     ],
     "id": "sami",
@@ -561,9 +591,10 @@
     "keywords": [],
     "authors": [
       {
-        "name": "C. Claveleira (Univ. Rennes)",
+        "name": "Christian Claveleira",
         "firstname": "Christian",
-        "lastname": "Claveleira"
+        "lastname": "Claveleira",
+        "organisme": "Université de Rennes 1"
       }
     ],
     "id": "ntp",
@@ -580,9 +611,10 @@
     "keywords": [],
     "authors": [
       {
-        "name": "R. Favre-Nicolin (Centre Académique de Ressources d'Echirolles)",
+        "name": "Raymond Favre-Nicolin",
         "firstname": "Raymond",
-        "lastname": "Favre-Nicolin"
+        "lastname": "Favre-Nicolin",
+        "organisme": "Centre Académique de Ressources d'Echirolles"
       }
     ],
     "id": "favre",
@@ -599,14 +631,16 @@
     "keywords": [],
     "authors": [
       {
-        "name": "J.M Adam (Univ Pierre Mendès France Laboratoire CLIPS IMAG))",
+        "name": "Jean-Michel Adam",
         "lastname": "ADAM",
-        "firstname": "Jean-Michel"
+        "firstname": "Jean-Michel",
+        "organisme": "Université Pierre Mendes France - Laboratoire CLIPS IMAG"
       },
       {
-        "name": "Georges Coquelle (Centre Académique de Ressources d'Echirolles)",
+        "name": "Georges Coquelle",
         "lastname": "Coquelle",
-        "firstname": "George"
+        "firstname": "George",
+        "organisme": "Centre Académique de Ressources d'Echirolles"
       }
     ],
     "id": "adam",
@@ -623,9 +657,10 @@
     "keywords": [],
     "authors": [
       {
-        "name": "Projet RECTO-VERSO - J. Guidon",
+        "name": "Jacques Guidon",
         "lastname": "Guidon",
-        "firstname": "Jacques"
+        "firstname": "Jacques",
+        "organisme": "Projet RECTO-VERSO"
       }
     ],
     "id": "guidon",
@@ -642,14 +677,16 @@
     "keywords": [],
     "authors": [
       {
-        "name": "P. Bertellin (CNRS/SOSI)",
+        "name": "Patrick Bertellin",
         "lastname": "Bertellin",
-        "firstname": "Patrick"
+        "firstname": "Patrick",
+        "organisme": "CNRS/SOSI"
       },
       {
-        "name": "JP. Gautier (CNRS/UREC)",
+        "name": "Jean-Paul Gautier",
         "lastname": "Gautier",
-        "firstname": "Jean-Paul"
+        "firstname": "Jean-Paul",
+        "organisme": "CNRS/UREC"
       }
     ],
     "id": "gautier",
@@ -666,9 +703,10 @@
     "keywords": [],
     "authors": [
       {
-        "name": "A. Renard (NIC France)",
+        "name": "Annie Renard",
         "lastname": "Renard",
-        "firstname": "Annie"
+        "firstname": "Annie",
+        "organisme": "INRIA"
       }
     ],
     "id": "renard",
@@ -685,9 +723,10 @@
     "keywords": [],
     "authors": [
       {
-        "name": "Marc Vaisset (LAAS)",
+        "name": "Marc Vaisset",
         "lastname": "Vaisset",
-        "firstname": "Marc"
+        "firstname": "Marc",
+        "organisme": "LAAS"
       }
     ],
     "id": "vaisset",
@@ -704,9 +743,10 @@
     "keywords": [],
     "authors": [
       {
-        "name": "C. Rubat-du-Merac (INPG)",
+        "name": "Claire Rubat-du-Merac",
         "lastname": "Rubat du Mérac",
-        "firstname": "Claire"
+        "firstname": "Claire",
+        "organisme": "INPG"
       }
     ],
     "id": "rubat-du-merac",
@@ -723,14 +763,16 @@
     "keywords": [],
     "authors": [
       {
-        "name": "R. Bouché (ENSSIB)",
+        "name": "Richard Bouché",
         "lastname": "Bouché",
-        "firstname": "Richard"
+        "firstname": "Richard",
+        "organisme": "ENSSIB"
       },
       {
-        "name": "Sandra Maury (ENSSIB)",
+        "name": "Sandra Maury",
         "lastname": "Maury",
-        "firstname": "Sandra"
+        "firstname": "Sandra",
+        "organisme": "ENSSIB"
       }
     ],
     "id": "bouche",
@@ -747,9 +789,10 @@
     "keywords": [],
     "authors": [
       {
-        "name": "Y. Autran (CNRS/UREC)",
+        "name": "Yves Autran",
         "firstname": "Yves",
-        "lastname": "Autran"
+        "lastname": "Autran",
+        "organisme": "CNRS/UREC"
       }
     ],
     "id": "autran",
@@ -766,9 +809,10 @@
     "keywords": [],
     "authors": [
       {
-        "name": "G. Jean-François (Univ. Caen)",
+        "name": "Gérard Jean-François",
         "firstname": "Jean-François",
-        "lastname": "GÈrard"
+        "lastname": "Gérard",
+        "organisme": "Université de Caen"
       }
     ],
     "id": "jean-francois",
@@ -7603,7 +7647,7 @@
         "name": "Benoit Hamet",
         "firstname": "Benoit",
         "lastname": "Hamet",
-        "organisme": "La poste"
+        "organisme": "GET-INT"
       }
     ],
     "type": "présentation longue",
@@ -8858,20 +8902,17 @@
       {
         "name": "Pierre David",
         "firstname": "Pierre",
-        "lastname": "David",
-        "organisme": ""
+        "lastname": "David"
       },
       {
         "name": "Thomas Noël",
         "firstname": "Thomas",
-        "lastname": "Noël",
-        "organisme": ""
+        "lastname": "Noël"
       },
       {
         "name": "Guillaume Schreiner",
         "firstname": "Guillaume",
-        "lastname": "Schreiner",
-        "organisme": ""
+        "lastname": "Schreiner"
       },
       {
         "name": "Jean-Paul Le Guigner",
@@ -14575,8 +14616,7 @@
         "sort_name": "Greneche Nicolas",
         "name": "Nicolas Greneche",
         "firstname": "Nicolas",
-        "lastname": "Greneche",
-        "organisme": null
+        "lastname": "Greneche"
       }
     ],
     "orator": 1084,
@@ -14713,7 +14753,6 @@
         "id": 99,
         "sort_name": "Blanpain Cyrille",
         "name": "Cyrille Blanpain",
-        "organisme": "",
         "firstname": "Cyrille",
         "lastname": "Blanpain"
       }
@@ -14759,7 +14798,7 @@
         "name": "ZAKARI-TOURE Ismael",
         "firstname": "Ismael",
         "lastname": "ZAKARI-TOURE",
-        "organisme": null
+        "organisme": "IN2P3"
       }
     ],
     "orator": 101,
@@ -15006,8 +15045,7 @@
         "sort_name": "Jeanvoine Emmanuel",
         "name": "Emmanuel Jeanvoine",
         "firstname": "Emmanuel",
-        "lastname": "Jeanvoine",
-        "organisme": null
+        "lastname": "Jeanvoine"
       },
       {
         "id": 163,
@@ -15122,8 +15160,7 @@
         "sort_name": "Reverchon Kevin",
         "name": "Kevin Reverchon",
         "firstname": "Kevin",
-        "lastname": "Reverchon",
-        "organisme": null
+        "lastname": "Reverchon"
       }
     ],
     "orator": 89,
@@ -15206,7 +15243,7 @@
         "id": 149,
         "sort_name": "BALIN Philippe ",
         "name": "Philippe  BALIN",
-        "organisme": "",
+        "organisme": "Solcap21",
         "firstname": "Philippe ",
         "lastname": "BALIN"
       },
@@ -15216,7 +15253,7 @@
         "name": "Eric DREZET",
         "firstname": "Eric",
         "lastname": "DREZET",
-        "organisme": null
+        "organisme": "CNRS-CRHEA"
       }
     ],
     "orator": 149,
@@ -15260,16 +15297,14 @@
         "sort_name": "Rakotonavalona Tovoherizo",
         "name": "Tovoherizo Rakotonavalona",
         "firstname": "Tovoherizo",
-        "lastname": "Rakotonavalona",
-        "organisme": null
+        "lastname": "Rakotonavalona"
       },
       {
         "id": 161,
         "sort_name": "Sion Martine",
         "name": "Martine Sion",
         "firstname": "Martine",
-        "lastname": "Sion",
-        "organisme": null
+        "lastname": "Sion"
       }
     ],
     "orator": 140,
@@ -15412,7 +15447,6 @@
         "id": 166,
         "sort_name": "DAVID Romaric",
         "name": "Romaric DAVID",
-        "organisme": "",
         "firstname": "Romaric",
         "lastname": "DAVID"
       },
@@ -15555,7 +15589,6 @@
         "id": 141,
         "sort_name": "GARET Julien",
         "name": "Julien GARET",
-        "organisme": "",
         "firstname": "Julien",
         "lastname": "GARET"
       },
@@ -15564,8 +15597,7 @@
         "sort_name": "Demarey Christophe",
         "name": "Christophe Demarey",
         "firstname": "Christophe",
-        "lastname": "Demarey",
-        "organisme": null
+        "lastname": "Demarey"
       }
     ],
     "orator": 141,
@@ -15648,8 +15680,7 @@
         "sort_name": "Pruvost Agnès",
         "name": "Agnès Pruvost",
         "firstname": "Agnès",
-        "lastname": "Pruvost",
-        "organisme": null
+        "lastname": "Pruvost"
       }
     ],
     "orator": 191,
@@ -15862,7 +15893,6 @@
         "id": 205,
         "sort_name": "POPLIMONT philippe",
         "name": "philippe POPLIMONT",
-        "organisme": "",
         "firstname": "philippe",
         "lastname": "POPLIMONT"
       },
@@ -16186,8 +16216,7 @@
         "sort_name": "Roch Francoise",
         "name": "Francoise Roch",
         "firstname": "Francoise",
-        "lastname": "Roch",
-        "organisme": null
+        "lastname": "Roch"
       },
       {
         "id": 283,
@@ -16202,8 +16231,7 @@
         "sort_name": "Seguy Christian",
         "name": "Christian Seguy",
         "firstname": "Christian",
-        "lastname": "Seguy",
-        "organisme": null
+        "lastname": "Seguy"
       }
     ],
     "orator": 234,
@@ -16461,7 +16489,6 @@
         "id": 290,
         "sort_name": "Négaret Roger ",
         "name": "Roger  Négaret",
-        "organisme": "",
         "firstname": "Roger ",
         "lastname": "Négaret"
       }
@@ -16800,7 +16827,6 @@
         "id": 267,
         "sort_name": "Gaulué Edouard",
         "name": "Edouard Gaulué",
-        "organisme": "",
         "firstname": "Edouard",
         "lastname": "Gaulué"
       }
@@ -17043,8 +17069,7 @@
         "sort_name": "LEFEVRE Laurent",
         "name": "Laurent LEFEVRE",
         "firstname": "Laurent",
-        "lastname": "LEFEVRE",
-        "organisme": null
+        "lastname": "LEFEVRE"
       }
     ],
     "orator": 1075,
@@ -17126,7 +17151,6 @@
         "id": 309,
         "sort_name": "Taulelle Loïs",
         "name": "Loïs Taulelle",
-        "organisme": "",
         "firstname": "Loïs",
         "lastname": "Taulelle"
       }
@@ -17349,7 +17373,6 @@
         "id": 299,
         "sort_name": "Boe Gunnar",
         "name": "Gunnar Boe",
-        "organisme": "",
         "firstname": "Gunnar",
         "lastname": "Boe"
       }
@@ -17754,7 +17777,6 @@
         "id": 329,
         "sort_name": "RIFFONNEAU Vincent",
         "name": "Vincent RIFFONNEAU",
-        "organisme": "",
         "firstname": "Vincent",
         "lastname": "RIFFONNEAU"
       }
@@ -18294,7 +18316,6 @@
         "id": 353,
         "sort_name": "Bruhier Vincent",
         "name": "Vincent Bruhier",
-        "organisme": "",
         "firstname": "Vincent",
         "lastname": "Bruhier"
       },
@@ -18587,7 +18608,6 @@
         "id": 369,
         "sort_name": "Sallou Yann",
         "name": "Yann Sallou",
-        "organisme": "",
         "firstname": "Yann",
         "lastname": "Sallou"
       },
@@ -18604,8 +18624,7 @@
         "sort_name": "Cadé François",
         "name": "François Cadé",
         "firstname": "François",
-        "lastname": "Cadé",
-        "organisme": null
+        "lastname": "Cadé"
       }
     ],
     "orator": 354,
@@ -19058,8 +19077,7 @@
         "sort_name": "Dorel Jean-Luc",
         "name": "Jean-Luc Dorel",
         "firstname": "Jean-Luc",
-        "lastname": "Dorel",
-        "organisme": null
+        "lastname": "Dorel"
       },
       {
         "id": 389,
@@ -19198,8 +19216,7 @@
         "sort_name": "Dupont Jean",
         "name": "Jean Dupont",
         "firstname": "Jean",
-        "lastname": "Dupont",
-        "organisme": null
+        "lastname": "Dupont"
       }
     ],
     "orator": 1322,
@@ -19754,7 +19771,6 @@
         "id": 66,
         "sort_name": "VIBRAC Geoffroy",
         "name": "Geoffroy VIBRAC",
-        "organisme": null,
         "firstname": "Geoffroy",
         "lastname": "VIBRAC"
       }
@@ -19858,7 +19874,6 @@
         "id": 73,
         "sort_name": "POP Sorina",
         "name": "Sorina POP",
-        "organisme": "",
         "firstname": "Sorina",
         "lastname": "POP"
       },
@@ -20059,7 +20074,6 @@
         "id": 102,
         "sort_name": "BRUYERE Marc",
         "name": "Marc BRUYERE",
-        "organisme": "",
         "firstname": "Marc",
         "lastname": "BRUYERE"
       }
@@ -20100,7 +20114,6 @@
         "id": 36,
         "sort_name": "LAMAIZIERE Patrick",
         "name": "Patrick LAMAIZIERE",
-        "organisme": "",
         "firstname": "Patrick",
         "lastname": "LAMAIZIERE"
       }
@@ -20240,7 +20253,6 @@
         "id": 85,
         "sort_name": "PORQUET Thomas",
         "name": "Thomas PORQUET",
-        "organisme": "",
         "firstname": "Thomas",
         "lastname": "PORQUET"
       },
@@ -20614,7 +20626,6 @@
         "id": 85,
         "sort_name": "PORQUET Thomas",
         "name": "Thomas PORQUET",
-        "organisme": "",
         "firstname": "Thomas",
         "lastname": "PORQUET"
       },
@@ -20989,7 +21000,6 @@
         "id": 175,
         "sort_name": "LEBEC Martial",
         "name": "Martial LEBEC",
-        "organisme": "",
         "firstname": "Martial",
         "lastname": "LEBEC"
       },
@@ -21413,8 +21423,7 @@
         "sort_name": "PROCACCIA Jehan",
         "name": "Jehan PROCACCIA",
         "firstname": "Jehan",
-        "lastname": "PROCACCIA",
-        "organisme": null
+        "lastname": "PROCACCIA"
       },
       {
         "id": 127,
@@ -21761,7 +21770,6 @@
         "id": 175,
         "sort_name": "LEBEC Martial",
         "name": "Martial LEBEC",
-        "organisme": "",
         "firstname": "Martial",
         "lastname": "LEBEC"
       }
@@ -21816,7 +21824,6 @@
         "id": 1,
         "sort_name": "MÉLÉARD Etienne",
         "name": "Etienne MÉLÉARD",
-        "organisme": "",
         "firstname": "Etienne",
         "lastname": "MÉLÉARD"
       }
@@ -21908,7 +21915,6 @@
         "id": 234,
         "sort_name": "NUSSBAUM Lucas",
         "name": "Lucas NUSSBAUM",
-        "organisme": "",
         "firstname": "Lucas",
         "lastname": "NUSSBAUM"
       },
@@ -22417,7 +22423,6 @@
         "id": 175,
         "sort_name": "LEBEC Martial",
         "name": "Martial LEBEC",
-        "organisme": "",
         "firstname": "Martial",
         "lastname": "LEBEC"
       }
@@ -22511,7 +22516,6 @@
         "id": 175,
         "sort_name": "LEBEC Martial",
         "name": "Martial LEBEC",
-        "organisme": "",
         "firstname": "Martial",
         "lastname": "LEBEC"
       }
@@ -22555,7 +22559,6 @@
         "id": 284,
         "sort_name": "MÉDARD Sébastien",
         "name": "Sébastien MÉDARD",
-        "organisme": "",
         "firstname": "Sébastien",
         "lastname": "MÉDARD"
       }
@@ -22594,7 +22597,6 @@
         "id": 206,
         "sort_name": "GUIONNET Matthieu",
         "name": "Matthieu GUIONNET",
-        "organisme": "",
         "firstname": "Matthieu",
         "lastname": "GUIONNET"
       }
@@ -23812,7 +23814,6 @@
         "id": 298,
         "sort_name": "CATALA Pierre",
         "name": "Pierre CATALA",
-        "organisme": "",
         "firstname": "Pierre",
         "lastname": "CATALA"
       },
@@ -24353,8 +24354,7 @@
         "sort_name": "Berthoud Francoise",
         "firstname": "Francoise",
         "lastname": "Berthoud",
-        "name": "Francoise Berthoud",
-        "organisme": null
+        "name": "Francoise Berthoud"
       },
       {
         "id": 53,
@@ -24641,7 +24641,7 @@
         "firstname": "Ismael",
         "lastname": "Zakari Touré",
         "name": "Ismael Zakari Touré",
-        "organisme": "McDonald"
+        "organisme": "IN2P3"
       }
     ],
     "photolink": "",
@@ -25868,8 +25868,7 @@
         "sort_name": "Pierne Vanessa",
         "firstname": "Vanessa",
         "lastname": "Pierne",
-        "name": "Vanessa Pierne",
-        "organisme": ""
+        "name": "Vanessa Pierne"
       },
       {
         "id": 49,
@@ -26961,8 +26960,7 @@
         "sort_name": "Minet Aurelien",
         "firstname": "Aurelien",
         "lastname": "Minet",
-        "name": "Aurelien Minet",
-        "organisme": null
+        "name": "Aurelien Minet"
       },
       {
         "id": 182,
@@ -28867,8 +28865,7 @@
         "sort_name": "Parouty Jean-luc",
         "firstname": "Jean-luc",
         "lastname": "Parouty",
-        "name": "Jean-luc Parouty",
-        "organisme": null
+        "name": "Jean-luc Parouty"
       }
     ],
     "photolink": "https://conf-ng.jres.org/2015/document_revision_2434.html?download=1",
@@ -29451,8 +29448,7 @@
         "sort_name": "Larrousse Nicolas",
         "firstname": "Nicolas",
         "lastname": "Larrousse",
-        "name": "Nicolas Larrousse",
-        "organisme": ""
+        "name": "Nicolas Larrousse"
       },
       {
         "id": 354,
@@ -29597,8 +29593,7 @@
         "sort_name": "Chantreux Marc",
         "firstname": "marc",
         "lastname": "chantreux",
-        "name": "Marc Chantreux",
-        "organisme": ""
+        "name": "Marc Chantreux"
       }
     ],
     "photolink": "",
@@ -29900,8 +29895,7 @@
         "sort_name": "Guyot Alexandre",
         "firstname": "Alexandre",
         "lastname": "Guyot",
-        "name": "Alexandre Guyot",
-        "organisme": ""
+        "name": "Alexandre Guyot"
       },
       {
         "id": 4,
@@ -30591,8 +30585,7 @@
         "sort_name": "Minet Aurelien",
         "firstname": "Aurelien",
         "lastname": "Minet",
-        "name": "Aurelien Minet",
-        "organisme": null
+        "name": "Aurelien Minet"
       }
     ],
     "photolink": "",
@@ -31253,8 +31246,7 @@
         "sort_name": "Dolmazon Thomas",
         "firstname": "Thomas",
         "lastname": "DOLMAZON",
-        "name": "Thomas Dolmazon",
-        "organisme": ""
+        "name": "Thomas Dolmazon"
       }
     ],
     "photolink": null,
@@ -31846,8 +31838,7 @@
         "sort_name": "Poligny Laurent",
         "firstname": "Laurent",
         "lastname": "POLIGNY",
-        "name": "Laurent Poligny",
-        "organisme": ""
+        "name": "Laurent Poligny"
       }
     ],
     "photolink": null,
@@ -32458,8 +32449,7 @@
         "sort_name": "Reverchon Kevin",
         "firstname": "KEVIN",
         "lastname": "REVERCHON",
-        "name": "Kevin Reverchon",
-        "organisme": ""
+        "name": "Kevin Reverchon"
       }
     ],
     "photolink": null,
@@ -37084,8 +37074,7 @@
         "sort_name": "Dequen Gilles",
         "firstname": "Gilles",
         "lastname": "Dequen",
-        "name": "Gilles Dequen",
-        "organisme": ""
+        "name": "Gilles Dequen"
       },
       {
         "id": 1364,
@@ -37599,8 +37588,7 @@
         "sort_name": "Leblanc Vincent",
         "firstname": "Vincent",
         "lastname": "Leblanc",
-        "name": "Vincent Leblanc",
-        "organisme": ""
+        "name": "Vincent Leblanc"
       }
     ],
     "photolink": null,
@@ -37649,8 +37637,7 @@
         "sort_name": "Gydé Laurent",
         "firstname": "Laurent",
         "lastname": "Gydé",
-        "name": "Laurent Gydé",
-        "organisme": ""
+        "name": "Laurent Gydé"
       }
     ],
     "photolink": null,
@@ -37763,8 +37750,7 @@
         "sort_name": "Liger Jean-marc",
         "firstname": "Jean-Marc",
         "lastname": "LIGER",
-        "name": "Jean-marc Liger",
-        "organisme": ""
+        "name": "Jean-marc Liger"
       }
     ],
     "photolink": "https://conf-ng.jres.org/2017/document_revision_1121.html?download=1",
@@ -37883,8 +37869,7 @@
         "sort_name": "Minet Aurelien",
         "firstname": "Aurelien",
         "lastname": "MINET",
-        "name": "Aurelien Minet",
-        "organisme": ""
+        "name": "Aurelien Minet"
       },
       {
         "id": 1396,
@@ -38016,8 +38001,7 @@
         "sort_name": "Peyronnet Sylvain",
         "firstname": "Sylvain",
         "lastname": "Peyronnet",
-        "name": "Sylvain Peyronnet",
-        "organisme": ""
+        "name": "Sylvain Peyronnet"
       }
     ],
     "photolink": "https://conf-ng.jres.org/2017/document_revision_2962.html?download=1",
@@ -38062,8 +38046,7 @@
         "sort_name": "De La Higuera Colin",
         "firstname": "Colin",
         "lastname": "de la Higuera",
-        "name": "Colin De La Higuera",
-        "organisme": ""
+        "name": "Colin De La Higuera"
       }
     ],
     "photolink": "https://conf-ng.jres.org/2017/document_revision_2964.html?download=1",
@@ -38232,8 +38215,7 @@
         "sort_name": "Guezou Jean-françois",
         "firstname": "Jean-françois",
         "lastname": "Guezou",
-        "name": "Jean-françois Guezou",
-        "organisme": null
+        "name": "Jean-françois Guezou"
       },
       {
         "id": 1027,
@@ -38295,8 +38277,7 @@
         "sort_name": "Guezou Jean-françois",
         "firstname": "Jean-françois",
         "lastname": "Guezou",
-        "name": "Jean-françois Guezou",
-        "organisme": null
+        "name": "Jean-françois Guezou"
       },
       {
         "id": 1027,
@@ -38458,7 +38439,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5973.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5972.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/6990200d-1cd6-46cd-a922-f26aff5aff25",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_3_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1043",
@@ -38531,7 +38512,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5221.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5997.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/4c45d33f-47c5-4cd8-a532-44e397591959",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_5_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1138",
@@ -38651,7 +38632,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4949.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5995.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/c228d833-8e00-445a-b38a-60f216933e93",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_9_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1039",
@@ -38705,7 +38686,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4815.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5808.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/4c826f2c-3ff6-430f-aa3b-b2a8c795c18a",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_10_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1042",
@@ -38771,7 +38752,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5018.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5708.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/118ad98a-7ed4-4656-be6a-2bb565c27008",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_16_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1046",
@@ -38838,7 +38819,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5069.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5804.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/b8f877cb-3948-4d07-9149-bd7fe001024e",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_18_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1029",
@@ -38905,7 +38886,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5558.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5686.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/2c877a5a-70be-4303-87dd-59eba58a975d",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_19_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1044",
@@ -38962,7 +38943,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5059.html?download",
     "posterlink": "https://conf-ng.jres.org/2019/document_revision_5143.html?download",
     "diaporamalink": null,
-    "videolink": "http://video.renater.fr/jres/2017/index.php?aid=21",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_21_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1043",
@@ -39055,7 +39036,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5196.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5991.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/6f5a47fe-2300-4326-8dbc-66b0143aba07",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_22_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1039",
@@ -39110,7 +39091,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4778.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5951.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/f4bc1598-2472-4357-8fcc-77e5e4164fb0",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_23_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1463",
@@ -39166,7 +39147,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4564.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5987.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/4395bc6b-c4f4-4b81-a232-735c77b0736e",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_27_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1463",
@@ -39225,7 +39206,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4725.html?download",
     "posterlink": "https://conf-ng.jres.org/2019/document_revision_4877.html?download",
     "diaporamalink": null,
-    "videolink": "http://video.renater.fr/jres/2017/index.php?aid=28",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_28_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1031",
@@ -39367,7 +39348,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4546.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5992.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/43fd1c95-d5fe-48a5-a5cd-da88b0c8ac0e",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_30_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1044",
@@ -39433,7 +39414,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4662.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5366.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/fe11dc93-7923-4df8-a8f6-e9ef6b19f202",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_31_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1043",
@@ -39506,7 +39487,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5145.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5862.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/ec2a8cfb-2da1-45e6-bdef-c95c6d98c3d1",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_33_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1039",
@@ -39563,7 +39544,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4761.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5947.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/3d20ee77-319e-4855-921e-3767f55b4543",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_35_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1056",
@@ -39629,7 +39610,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5455.html?download",
     "posterlink": "https://conf-ng.jres.org/2019/document_revision_5167.html?download",
     "diaporamalink": null,
-    "videolink": "http://video.renater.fr/jres/2017/index.php?aid=36",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_36_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1046",
@@ -39699,7 +39680,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5350.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5921.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/4ebf1a07-561d-443d-8ff0-665fc9e13181",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_38_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1041",
@@ -39765,7 +39746,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4858.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_6006.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/bf042586-48ee-4dcd-bb43-1c8eb9edcaf7",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_39_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1043",
@@ -39845,7 +39826,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5168.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5994.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/075f313f-b8c5-4f9d-928d-7dc91da10a8e",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_41_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1070",
@@ -39931,7 +39912,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5259.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5996.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/17240a7a-d32f-4aa6-a543-7c2af5f053cb",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_42_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1044",
@@ -40003,7 +39984,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4563.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5717.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/e19b5332-0d66-464b-8bff-2ca5ecd51d3c",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_46_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1044",
@@ -40063,7 +40044,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5444.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5816.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/2c0e0447-a65e-4760-9fec-9cd74e0a495c",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_47_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1057",
@@ -40120,7 +40101,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5152.html?download",
     "posterlink": "https://conf-ng.jres.org/2019/document_revision_4922.html?download",
     "diaporamalink": null,
-    "videolink": "http://video.renater.fr/jres/2017/index.php?aid=49",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_49_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1608",
@@ -40185,7 +40166,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5530.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5917.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/9a73df97-83c7-43c8-be0b-aec9cdbbd4fa",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_50_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1023",
@@ -40241,7 +40222,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4851.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5985.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/98c5669a-6613-4bc0-bcb0-8ed72128a4a1",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_51_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1042",
@@ -40338,7 +40319,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5517.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5979.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/bf5b2ab6-e9d6-4e21-ac28-b5bd5a489136",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_53_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1029",
@@ -40410,7 +40391,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5068.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5925.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/811bb2fe-582e-4996-9643-89401d2c0d2c",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_54_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1025",
@@ -40491,7 +40472,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5662.html?download",
     "posterlink": "https://conf-ng.jres.org/2019/document_revision_5070.html?download",
     "diaporamalink": null,
-    "videolink": "http://video.renater.fr/jres/2017/index.php?aid=55",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_55_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1057",
@@ -40545,7 +40526,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5262.html?download",
     "posterlink": "https://conf-ng.jres.org/2019/document_revision_5124.html?download",
     "diaporamalink": null,
-    "videolink": "http://video.renater.fr/jres/2017/index.php?aid=57",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_57_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1025",
@@ -40609,7 +40590,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5090.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5988.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/0f22ac71-184a-4e7b-9a1c-0e28b9fa6ac4",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_59_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1463",
@@ -40693,7 +40674,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4876.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5887.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/472ec57e-a911-4f6f-9dcc-838c1b2054fd",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_60_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1044",
@@ -40766,7 +40747,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5284.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5859.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/6219c6ba-c46f-4e19-b830-879464a6dbc6",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_62_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1046",
@@ -40928,7 +40909,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4965.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5948.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/c0ce8c10-fc41-4cf7-9069-9d2c225f9e0a",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_64_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1056",
@@ -41026,7 +41007,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5201.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_6004.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/5a9649fd-f2bf-47d0-aadf-7be14d2f7956",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_65_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1025",
@@ -41053,8 +41034,7 @@
         "sort_name": "David Stéphan",
         "firstname": "stéphan",
         "lastname": "DAVID",
-        "name": "Stéphan David",
-        "organisme": ""
+        "name": "Stéphan David"
       }
     ],
     "photolink": "https://conf-ng.jres.org/2019/document_revision_3784.html?download=1",
@@ -41082,7 +41062,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5461.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_6013.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/8ebc6f56-fb88-4af3-baf2-bb134a68df78",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_68_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1034",
@@ -41139,7 +41119,7 @@
     "pdflink": null,
     "posterlink": "https://conf-ng.jres.org/2019/document_revision_5041.html?download",
     "diaporamalink": null,
-    "videolink": "http://video.renater.fr/jres/2017/index.php?aid=69",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_69_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1033",
@@ -41205,7 +41185,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4969.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5989.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/9b55919f-e534-4b09-a064-ccd0bf86a287",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_71_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1463",
@@ -41263,7 +41243,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5746.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5903.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/8d290fab-56fa-4cb2-8f7a-aed07e63b564",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_74_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1057",
@@ -41298,8 +41278,7 @@
         "sort_name": "Abélard Arnaud",
         "firstname": "Arnaud",
         "lastname": "Abélard",
-        "name": "Arnaud Abélard",
-        "organisme": ""
+        "name": "Arnaud Abélard"
       }
     ],
     "photolink": "https://conf-ng.jres.org/2019/document_revision_4540.html?download=1",
@@ -41331,7 +41310,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5218.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5837.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/a13a023f-6243-48f5-9e35-dae6623c53a1",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_75_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1039",
@@ -41366,8 +41345,7 @@
         "sort_name": "Lestrelin Emmanuel",
         "firstname": "Emmanuel",
         "lastname": "Lestrelin",
-        "name": "Emmanuel Lestrelin",
-        "organisme": ""
+        "name": "Emmanuel Lestrelin"
       },
       {
         "id": 2356,
@@ -41412,7 +41390,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5711.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5888.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/2dfa9748-5878-4651-af69-bc3905fa91ec",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_76_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1031",
@@ -41471,7 +41449,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4768.html?download",
     "posterlink": "https://conf-ng.jres.org/2019/document_revision_4905.html?download",
     "diaporamalink": null,
-    "videolink": null,
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_77_720.mp4",
     "chairmen": {
       "chairman": {
         "id": "1056",
@@ -41548,7 +41526,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4902.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5980.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/cf733abb-25fe-4175-9cd9-2cfd0db416c1",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_78_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1031",
@@ -41575,8 +41553,7 @@
         "sort_name": "Enguehard Chantal",
         "firstname": "Chantal",
         "lastname": "Enguehard",
-        "name": "Chantal Enguehard",
-        "organisme": ""
+        "name": "Chantal Enguehard"
       },
       {
         "id": 2366,
@@ -41611,7 +41588,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5934.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5993.html?download",
-    "videolink": "http://video.renater.fr/jres/2017/index.php?aid=80",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_80_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1608",
@@ -41668,7 +41645,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5451.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5743.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/d4aecad7-d67d-45ee-a03f-065aac24ca9b",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_82_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1046",
@@ -41831,7 +41808,7 @@
     "pdflink": null,
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5632.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/b231bc75-f2ee-4cef-a8d0-2c1394f3a6c9",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_87_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1046",
@@ -41986,7 +41963,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5589.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5815.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/d8f865e6-296d-4823-815a-9bb144a444ed",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_93_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1057",
@@ -42040,7 +42017,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5198.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_6014.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/73775f03-8383-42a0-bb7d-65379a49f9da",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_94_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1025",
@@ -42118,7 +42095,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4631.html?download",
     "posterlink": "https://conf-ng.jres.org/2019/document_revision_4914.html?download",
     "diaporamalink": null,
-    "videolink": "http://video.renater.fr/jres/2017/index.php?aid=95",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_95_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1463",
@@ -42200,7 +42177,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5026.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5904.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/8a9a4ff7-2766-4f53-994d-058781008f67",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_96_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1042",
@@ -42273,7 +42250,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5405.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_6007.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/2bb86882-cbac-47f9-ad26-36a451d168f6",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_98_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1034",
@@ -42300,8 +42277,7 @@
         "sort_name": "Masson Christophe",
         "firstname": "Christophe",
         "lastname": "Masson",
-        "name": "Christophe Masson",
-        "organisme": ""
+        "name": "Christophe Masson"
       }
     ],
     "photolink": "https://conf-ng.jres.org/2019/document_revision_4406.html?download=1",
@@ -42332,7 +42308,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5596.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5964.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/e61a63a8-c98a-4d72-9ec3-6a56f76467da",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_100_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1034",
@@ -42399,7 +42375,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5213.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_6003.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/83554422-42fa-4918-b18a-05feac12e4b8",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_103_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1025",
@@ -42461,7 +42437,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5306.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5548.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/90097b06-3994-44c6-8059-6e16bc1822ff",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_104_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1138",
@@ -42523,7 +42499,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5453.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5976.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/e1b1bcdd-41b0-4764-9173-53986ced0418",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_105_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1034",
@@ -42579,7 +42555,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4867.html?download",
     "posterlink": "https://conf-ng.jres.org/2019/document_revision_5051.html?download",
     "diaporamalink": null,
-    "videolink": null,
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_106_720.mp4",
     "chairmen": {
       "chairman": {
         "id": "1149",
@@ -42640,7 +42616,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5199.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_6012.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/90e76243-ec59-4961-82e3-297695d5c5af",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_108_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1025",
@@ -42698,7 +42674,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5202.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5982.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/3177c36b-f044-4af2-adb1-a9994ff07bae",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_112_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1138",
@@ -42752,7 +42728,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5193.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5432.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/e787327a-d922-4891-9968-203ee34d4eba",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_114_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1029",
@@ -42821,7 +42797,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5126.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_6002.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/f8ecfad1-4d7f-4658-b3f0-890fc58ee4c1",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_117_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1029",
@@ -42884,7 +42860,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5247.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_6011.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/e0f597e2-11f9-43f3-badd-9d2a8073c060",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_118_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1027",
@@ -42940,7 +42916,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5438.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5872.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/d40ec032-99d1-478b-b863-40c8e1c3ac82",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_119_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1039",
@@ -43063,7 +43039,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4700.html?download",
     "posterlink": "https://conf-ng.jres.org/2019/document_revision_4538.html?download",
     "diaporamalink": null,
-    "videolink": "http://video.renater.fr/jres/2017/index.php?aid=121",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_121_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1044",
@@ -43131,7 +43107,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5005.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_6009.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/9c3fa697-b45f-448b-bade-d8c624ce1e25",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_122_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1031",
@@ -43199,7 +43175,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5332.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_6000.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/19a85af0-01f4-4d47-8d9b-1b2643b18a96",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_123_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1168",
@@ -43267,7 +43243,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5398.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5557.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/4b26b2cb-6c44-465e-9d2a-6c1a98a3ab74",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_124_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1138",
@@ -43342,7 +43318,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5022.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5986.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/185e9ab0-9449-4c92-95c7-c349f880ff24",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_126_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1023",
@@ -43466,7 +43442,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5151.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5832.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/6de5f575-9da1-4cb7-82af-f3f90aca9b6e",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_127_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1029",
@@ -43535,7 +43511,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4892.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_6010.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/db166173-511c-4879-aabe-c5e014e47863",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_128_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1149",
@@ -43591,7 +43567,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5054.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5824.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/61f672bd-6425-488f-befd-94225d9cadad",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_129_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1149",
@@ -43659,7 +43635,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5115.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5896.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/7cfc799c-d4a2-4584-be1e-e994558b478a",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_130_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1033",
@@ -43737,7 +43713,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5699.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5674.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/86467a01-51d5-44c1-87e2-ea7ce1b3741d",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_131_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1443",
@@ -43826,7 +43802,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5723.html?download",
     "posterlink": "https://conf-ng.jres.org/2019/document_revision_5161.html?download",
     "diaporamalink": null,
-    "videolink": null,
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_132_720.mp4",
     "chairmen": {
       "chairman": {
         "id": "1443",
@@ -43912,7 +43888,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5700.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5960.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/143bbb89-88e7-45e7-9a1c-138018ca5b2f",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_133_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1070",
@@ -44073,7 +44049,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4915.html?download",
     "posterlink": "https://conf-ng.jres.org/2019/document_revision_5246.html?download",
     "diaporamalink": null,
-    "videolink": null,
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_134_720.mp4",
     "chairmen": {
       "chairman": {
         "id": "1034",
@@ -44130,7 +44106,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5343.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5744.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/c77b3a44-b75f-4c10-9f39-8fb55ae096d7",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_135_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1070",
@@ -44192,7 +44168,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5663.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5975.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/beabc1e7-6d5f-4e8a-8a64-c2771bc04a5b",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_136_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1443",
@@ -44267,7 +44243,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5028.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5946.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/7f095f6d-fa7a-4324-9c7b-43bab351a8d3",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_137_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1033",
@@ -44359,7 +44335,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5032.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5861.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/7144b6cf-6bb4-4ca1-8658-da6e1a95da97",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_140_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1046",
@@ -44423,7 +44399,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4999.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5937.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/cce4003b-6347-426d-a9d4-595686504f35",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_141_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1033",
@@ -44480,7 +44456,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4968.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5953.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/76828a15-30b5-4874-af0a-63263d0fcdd1",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_142_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1033",
@@ -44570,7 +44546,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5471.html?download",
     "posterlink": "https://conf-ng.jres.org/2019/document_revision_5171.html?download",
     "diaporamalink": null,
-    "videolink": null,
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_143_720.mp4",
     "chairmen": {
       "chairman": {
         "id": "1138",
@@ -44626,7 +44602,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5814.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5906.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/0ff941d4-6219-487f-b3fe-3871acd510df",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_144_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1039",
@@ -44653,8 +44629,7 @@
         "sort_name": "Ribaillier Vincent",
         "firstname": "Vincent",
         "lastname": "Ribaillier",
-        "name": "Vincent Ribaillier",
-        "organisme": ""
+        "name": "Vincent Ribaillier"
       }
     ],
     "photolink": null,
@@ -44681,7 +44656,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5205.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5999.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/501a8c8c-bdbf-4730-86af-f2c37fa8fa36",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_145_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1025",
@@ -44737,7 +44712,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_6015.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_6008.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/56f9f517-78d5-4640-b9db-506f24e9ed9a",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_150_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1034",
@@ -44821,7 +44796,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5142.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5990.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/8c6b5d5b-5ec6-4e6a-8752-548e450ee6b1",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_151_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1463",
@@ -44901,7 +44876,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5134.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5969.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/78448863-14f2-40d2-b67d-e4a05e1b51f7",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_152_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1168",
@@ -45039,7 +45014,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5288.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5919.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/abc7bd8b-dfdc-4af4-b69a-8d1d78a100eb",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_154_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1027",
@@ -45107,7 +45082,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5365.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5915.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/5dfa2157-cdfa-4ee2-a8ce-3ce29b8cabb6",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_155_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1041",
@@ -45190,7 +45165,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5053.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_6001.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/ec3eb3fe-50bc-4556-9587-4fbfb9b88374",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_157_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1168",
@@ -45263,7 +45238,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5822.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5920.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/ec04d789-04fa-4ad8-a399-150bbf3e1c0e",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_158_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1023",
@@ -45326,7 +45301,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4776.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5735.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/70affc9e-b111-4221-ae4b-716da707c17b",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_160_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1043",
@@ -45387,7 +45362,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4614.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5911.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/7e58b727-06f2-4736-b18f-301a1e0546ee",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_162_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1031",
@@ -45448,7 +45423,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4661.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5844.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/78a9f03c-87c3-4c72-aa00-9bf08137b0fe",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_164_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1042",
@@ -45524,7 +45499,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5511.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5981.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/ab5d6abc-ddb3-4b89-8d7f-5fdcdc208ddc",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_165_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1043",
@@ -45598,7 +45573,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5271.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5764.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/32505126-5553-423f-9977-99767fd87aee",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_166_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1070",
@@ -45666,7 +45641,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_4918.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_6005.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/69789f2b-0943-4afb-a2fb-0c54afda40b7",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_167_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1149",
@@ -45724,7 +45699,7 @@
     "pdflink": "https://conf-ng.jres.org/2019/document_revision_5162.html?download",
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5966.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/ab4a07f4-d209-4427-88a2-78231c341464",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_168_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1608",
@@ -45780,7 +45755,7 @@
     "pdflink": null,
     "posterlink": null,
     "diaporamalink": null,
-    "videolink": "https://replay.jres.org/videos/watch/ed27e951-d886-46bb-b7c4-0d8d04f32981",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_173_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1024",
@@ -45835,7 +45810,7 @@
     "pdflink": null,
     "posterlink": null,
     "diaporamalink": null,
-    "videolink": "https://replay.jres.org/videos/watch/1d47ded1-434c-457b-9f35-6dcbd2625d9d",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_174_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1024",
@@ -45890,7 +45865,7 @@
     "pdflink": null,
     "posterlink": null,
     "diaporamalink": null,
-    "videolink": "https://replay.jres.org/videos/watch/85d6a26e-447c-4875-ad0a-aa52b8928c76",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_175_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1035",
@@ -45944,7 +45919,7 @@
     "pdflink": null,
     "posterlink": null,
     "diaporamalink": "https://conf-ng.jres.org/2019/document_revision_5907.html?download",
-    "videolink": "https://replay.jres.org/videos/watch/10955e40-65c3-46a0-92ee-822854533288",
+    "videolink": "http://video.renater.fr/jres/2019/jres2019_article_214_1080.mp4",
     "chairmen": {
       "chairman": {
         "id": "1027",
@@ -46097,8 +46072,7 @@
         "sort_name": "Tranchand Jean-Marie",
         "firstname": "Jean-Marie",
         "lastname": "Tranchand",
-        "name": "Jean-Marie Tranchand",
-        "organisme": ""
+        "name": "Jean-Marie Tranchand"
       }
     ],
     "photolink": null,
@@ -47738,8 +47712,7 @@
         "sort_name": "Ninassi Benjamin",
         "firstname": "Benjamin",
         "lastname": "Ninassi",
-        "name": "Benjamin Ninassi",
-        "organisme": null
+        "name": "Benjamin Ninassi"
       },
       {
         "id": 2597,
@@ -51240,8 +51213,7 @@
         "sort_name": "Tournier Simon",
         "firstname": "Simon",
         "lastname": "Tournier",
-        "name": "Simon Tournier",
-        "organisme": ""
+        "name": "Simon Tournier"
       }
     ],
     "photolink": "https://conf-ng.jres.org/2021/document_revision_2507.html?download=1",
@@ -51406,8 +51378,7 @@
         "sort_name": "Abélard Arnaud",
         "firstname": "Arnaud",
         "lastname": "Abélard",
-        "name": "Arnaud Abélard",
-        "organisme": ""
+        "name": "Arnaud Abélard"
       }
     ],
     "photolink": "https://conf-ng.jres.org/2021/document_revision_908.html?download=1",
@@ -51922,8 +51893,7 @@
         "sort_name": "Ficher Marion",
         "firstname": "Marion",
         "lastname": "Ficher",
-        "name": "Marion Ficher",
-        "organisme": ""
+        "name": "Marion Ficher"
       }
     ],
     "photolink": "https://conf-ng.jres.org/2021/document_revision_968.html?download=1",
@@ -52266,8 +52236,7 @@
         "sort_name": "Hodent Celia",
         "firstname": "Celia",
         "lastname": "Hodent",
-        "name": "Celia Hodent",
-        "organisme": "-"
+        "name": "Celia Hodent"
       }
     ],
     "photolink": "https://conf-ng.jres.org/2021/document_revision_1970.html?download=1",
@@ -52322,8 +52291,7 @@
         "sort_name": "Morel Christian",
         "firstname": "Christian",
         "lastname": "Morel",
-        "name": "Christian Morel",
-        "organisme": ""
+        "name": "Christian Morel"
       }
     ],
     "photolink": "https://conf-ng.jres.org/2021/document_revision_2016.html?download=1",
@@ -52652,8 +52620,7 @@
         "sort_name": "Onimousse Anne",
         "firstname": "Anne",
         "lastname": "Onimousse",
-        "name": "Anne Onimousse",
-        "organisme": null
+        "name": "Anne Onimousse"
       }
     ],
     "photolink": "https://conf-ng.jres.org/2021/document_revision_2501.html?download=1",
