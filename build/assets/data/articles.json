@@ -16,7 +16,6 @@
     "id": "atm",
     "type": "tuto long",
     "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/tutoriaux/atm.html",
     "pdflink": "https://1995.jres.org/actes/tutoriaux/atm.pdf",
     "indexkey": "1995-atm",
     "edition": "1995"
@@ -39,7 +38,6 @@
     "id": "mime",
     "type": "tuto long",
     "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/tutoriaux/mime.html",
     "pdflink": "https://1995.jres.org/actes/tutoriaux/mime.pdf",
     "indexkey": "1995-mime",
     "edition": "1995"
@@ -61,7 +59,6 @@
     ],
     "id": "morel",
     "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/ouverture/morel.html",
     "pdflink": "https://1995.jres.org/actes/ouverture/morel.pdf",
     "indexkey": "1995-morel",
     "edition": "1995"
@@ -89,7 +86,6 @@
     ],
     "id": "callimaq",
     "abstract": "Callimaque est un projet de bibliothèque électronique qui propose un accès Internet à une\\ncollection de 3000 documents retraçant l’évolution des Mathématiques Appliquées et des Sciences\\nde l’Ordinateur. Il intègre le traitement, la production de documents et la recherche d’information. Les publications sur support papier sont tout d’abord numérisées, puis stockées et indexées. Le système présente deux particularités : il mémorise la structure des documents pour\\nune lecture plus efficace et il fournit des outils multilingues qui permettent au lecteur non francophone de mieux comprendre le résumé et d’interroger la base de données dans sa langue\\nmaternelle.",
-    "diaporamalink": "https://1995.jres.org/actes/appli1/1/callimaq/callimaq.html",
     "pdflink": "https://1995.jres.org/actes/appli1/1/callimaq.pdf",
     "indexkey": "1995-callimaq",
     "edition": "1995"
@@ -113,7 +109,6 @@
     ],
     "id": "applis_multi",
     "abstract": "Cet article fait un rapide survol des applications de travail collaboratif du domaine public\\net de ce qui est nécessaire à leur mise en oeuvre.",
-    "diaporamalink": "https://1995.jres.org/actes/appli1/2/applis_multi/applis_multi.html",
     "pdflink": "https://1995.jres.org/actes/appli1/2/applis_multi.pdf",
     "indexkey": "1995-applis_multi",
     "edition": "1995"
@@ -134,8 +129,7 @@
       }
     ],
     "id": "IPv6",
-    "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/proto1/1/IPv6.html",
+    "abstract": "Le Protocole IP, tel que nous le pratiquons aujourd'hui, est en train de preparer sa mutation vers un nouveau protocole : IPv6. Certains suivent avec attention le design et les fonctionnalites de ce nouveau protocole -ou plus exactement de cet IP renové, d'autres ne connaissent meme pas son nom...",
     "pdflink": "https://1995.jres.org/actes/proto1/1/IPv6.pdf",
     "indexkey": "1995-IPv6",
     "edition": "1995"
@@ -167,7 +161,6 @@
     ],
     "id": "cesame",
     "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/proto1/2/cesame/cesame.html",
     "pdflink": "https://1995.jres.org/actes/proto1/2/cesame.pdf",
     "indexkey": "1995-cesame",
     "edition": "1995"
@@ -188,8 +181,7 @@
       }
     ],
     "id": "aitsaidi",
-    "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/proto1/3/aitsaidi/aitsaidi.html",
+    "abstract": "Les deux sites INRETS et le LCPC sont relies au reseau de recherche RENATER via un seul routeur. L'objet de l'etude est de calculer la part de trafic qui transite par le routeur (site &lt;-&gt; RENATER) pour chaque site et pour chaque sous-reseau appartenant au deux sites.",
     "pdflink": "https://1995.jres.org/actes/proto1/3/aitsaidi.pdf",
     "indexkey": "1995-aitsaidi",
     "edition": "1995"
@@ -209,7 +201,6 @@
     ],
     "id": "le-crosnier",
     "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/appli2/1/le-crosnier.html",
     "pdflink": "https://1995.jres.org/actes/appli2/1/le-crosnier.pdf",
     "indexkey": "1995-le-crosnier",
     "edition": "1995"
@@ -228,8 +219,7 @@
       }
     ],
     "id": "lemeur",
-    "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/appli2/3/lemeur.html",
+    "abstract": "Comme dans la banque directe ou le client est son propre operateur, dans le reseau de veille neologique BALNEO les producteurs d'information sont les gerants et les seuls responsables de leur contribution a une base de donnees cooperative destinee a repertorier et a diffuser sur Internet les attestations de neologismes de la langue francaise. BALNEO a ete commande au laboratoire CRAIE de l'Universite de Rennes 2 par le RINT (Reseau International de Neologie et de Terminologie). A l'issue de sa phase de test (decembre 1994 - avril 1995) et avant sa mise en exploitation (prevue pour l'ete 1995), ce nouveau type de base pose des problemes techniques (authentification des messages, securite des donnees..) et juridiques (contrat entre cooperants, gestion des droits d'auteur, statut des annotations, acces anonymes etc.). Ils concernent toute communaute qui veut s'amenager un espace d'information a gestion automatique et a responsabilite partagee.",
     "pdflink": "https://1995.jres.org/actes/appli2/3/lemeur.pdf",
     "indexkey": "1995-lemeur",
     "edition": "1995"
@@ -250,7 +240,7 @@
         "organisme": "INRIA Rhone-Alpes"
       }
     ],
-    "diaporamalink": "https://1995.jres.org/actes/appli3/1/quint.html",
+    "diaporamalink": "https://1995.jres.org/actes/appli3/quint.pdf",
     "indexkey": "1995-evol_www",
     "edition": "1995"
   },
@@ -272,7 +262,6 @@
     ],
     "id": "bourhis",
     "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/appli3/2/bourhis/bourhis.html",
     "pdflink": "https://1995.jres.org/actes/appli3/2/bourhis.pdf",
     "indexkey": "1995-bourhis",
     "edition": "1995"
@@ -293,8 +282,7 @@
       }
     ],
     "id": "nom_internet_langlois",
-    "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/resume/appli3-sl.html",
+    "abstract": "Un service de nommage est un element essentiel pour le fonctionnement d'un environnement reparti. Depuis de nombreuses annees, le DNS (Domain Name System) constitue un pilier de base de l'architecture Internet. Au fil du temps, le DNS a su montrer son ubiquite, mais aussi ses limites. D'autres services sont aujourd'hui necessaires: annuaires de noms permettant de retouver facilement les coordonnees d'une personnes, mais aussi annuaires de services qui interviennent en support d'applications (la messagerie est l'exemple le plus souvent evoque). L'Internet a lance plusieurs chantiers (extensions du DNS, WHOIS++, SOLO, ...) sur le sujet et il est bon de faire un etat des lieux des services de nommage qui feront probablement partie de la panoplie dedemain. L'ISO et l'ITU ont de leur cote revise les normes X.500 et, malgre la lenteur de la mise en place, les services X.500 deviennent peu a peu des pieces preponderantes dans les offres preponderantes, en particulier sur les reseaux locaux. Cette presentation s'efforce de faire une rapide synthese des technologies disponibles et replace les besoins des utilisateurs au premier plan.",
     "indexkey": "1995-nom_internet_langlois",
     "edition": "1995"
   },
@@ -314,8 +302,7 @@
       }
     ],
     "id": "tuy",
-    "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/proto2/1/tuy.html",
+    "abstract": "L'usage ou l'utilisation des ressources de l'Internet rend membre d'une communaut<E9>, qui a ses regles de vie... Que faire, ne pas faire et pourquoi, pour s'y conformer ? Cette communication voudrait presenter la problematique des bases de donnees recensant les ressources de la communaut<E9> internet, aux plans local, regional, continental... Quel interet a ce recensement ? Quels en sont les utilisations  possibles en termes d'architecture de l'Internet",
     "pdflink": "https://1995.jres.org/actes/proto2/1/tuy.pdf",
     "indexkey": "1995-tuy",
     "edition": "1995"
@@ -337,7 +324,6 @@
     ],
     "id": "mbone",
     "abstract": "Le multimédia et le travail collaboratif sont en vogue actuellement mais ils ne connaitraient pas cet essor sans le support des techniques de diffusion multipoint... Cet article présente succintement les concepts des transmissions en mode multipoint, les évolutions d’adressage et de protocoles de routage qui permettent leur utilisation et le réseau support de ces\\ntransmissions, le MBone, avec la façon de s’y connecter.",
-    "diaporamalink": "https://1995.jres.org/actes/proto2/2/mbone/mbone.html",
     "pdflink": "https://1995.jres.org/actes/proto2/2/mbone.pdf",
     "indexkey": "1995-mbone",
     "edition": "1995"
@@ -362,8 +348,7 @@
       }
     ],
     "id": "hsc",
-    "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/secu1/1/hsc/hsc.html",
+    "abstract": "L'objectif de la conférence est , d'une part, de montrer pourquoi les produits de securite Internet sont inutiles aux universités, et d'autre part de proposer une architecture permettant de se protéger. Les produits de sécurité qui fleurissent sur le marché, sont incomplets, et rendent en réalité l'exploitation de la sécurité Internet aussi complexe qu'auparavant. Donc, comment faut-il s'y prendre avec des composants classiques et standards du marché : routeurs et machines Unix, pour batir une sécurité, adaptée aux besoins des utilisateurs, mais améliorant la résistance aux intrusions qui se multiplient. La conférence proposera une architecture, des matériels applicables a tous, et les règles de filtrage IP.",
     "pdflink": "https://1995.jres.org/actes/secu1/1/hsc.pdf",
     "indexkey": "1995-hsc",
     "edition": "1995"
@@ -381,12 +366,11 @@
       }
     ],
     "id": "plancon",
-    "abstract": "[]",
+    "abstract": "COPS et TIGER sont des outils qui font principalement : de la verification sur l'integrite des acces de fichiers, de la verification sur le contenu de certains fichiers sensibles tels que .rhosts .netrc,  regarde la structure des fichiers password et group, etc ....  Toutes ces fonctions sont faites soit sur les informations contenues dans l'inode du fichier ou sur certaines informations contenues dans les data de ces fichiers.CES PRODUITS SONT UNE PARTIE DE LA SECURITE.",
     "keywords": [
       "contrôle d'intégrité",
       "tripwire"
     ],
-    "diaporamalink": "https://1995.jres.org/actes/secu1/2/plancon/plancon.html",
     "pdflink": "https://1995.jres.org/actes/secu1/2/plancon.pdf",
     "indexkey": "1995-plancon",
     "edition": "1995"
@@ -407,8 +391,7 @@
       }
     ],
     "id": "gueniche2",
-    "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/admin1/1/gueniche/gueniche.html",
+    "abstract": "Je propose la pr<E9>sentation d'un ensemble de programmes de surveillance de reseau que j'ai mis au point bas<E9> sur SNMP. But: Sans surveiller l'ecran, sans acheter aucun logiciel, etre avis<E9> oralement pratiquement aussitot du moindre incident survenant sur le reseau. Principe: Un programme en tache de fond interroge periodiquement en SNMP les equipements, recueille et analyse les reponses, et signale tout probleme a l'aide de messages vocaux reconstitues.",
     "pdflink": "https://1995.jres.org/actes/admin1/1/gueniche2.pdf",
     "indexkey": "1995-gueniche2",
     "edition": "1995"
@@ -429,8 +412,7 @@
       }
     ],
     "id": "meessen",
-    "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/admin1/2/meessen.html",
+    "abstract": "D'abord une presentation rapide de SNMPv1.C'est a dire sans entrer dans les details, afin que les personnes qui n'ontqu'une connaissance superficielle de SNMP puisse bien se rendre compte des differences. Les changements majeurs portent sur \n- les operations : ajout Get_bulk, changement du trap pdu, ajout du informPDU.\n- la securite: authentification et encryptage et les problemes que cela pose.\n- enrichissement des messages d'erreur.\n- ajout d'exceptions (noSuchObject, noSuchInstance,...) qui ne provoque plus le rejet en bloc du PDU.\n- normalisation de la creation/modif./suppression de lignes dans les tables.\n- manager to manager MIB: cooperation entre plusieurs applications de management\n- tres superficiellement les grands changements dans les SMI: Ajout  d'informations sur ce que fait rellement l'agent, ce qu'il ne fait pas par rapport au standard, les references et la version.\nSi j'ai bien compris, l'expose ne doit pas depasser 40 minutes. Je n'entrerais donc pas dans les details. L'objectif etant que la personne ayant assite a l'expose aie une idee plus precise de ce que SNMPv2 apporte de plus par rapport a SNMPv1.",
     "pdflink": "https://1995.jres.org/actes/admin1/2/meessen.pdf",
     "indexkey": "1995-meessen",
     "edition": "1995"
@@ -449,8 +431,7 @@
       }
     ],
     "id": "giraud",
-    "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/admin1/3/giraud.html",
+    "abstract": "Météo France a installé son premier logiciel d'administration réseau il y a quatre ans avec la foi des pionniers. Aujourd'hui, nous renouvellons notre gestionnaire réseau en revoyant nos ambitions a la baisse. Il y a 5 ans avec l'arrivée massive de SNMP, une nouvelle ère semblait s'ouvrir : un protocole standard qui permettait de gérer les équipements réseaux mais pourquoi pas aussi les systèmes et les applications. Force est de constater que ces promesses sont assez loin d'être tenues. Au travers de l'expérience de la Météo nous ferons le point sur quelques produits et protocoles de l'administration du système d'information",
     "pdflink": "https://1995.jres.org/actes/admin1/3/giraud.pdf",
     "indexkey": "1995-giraud",
     "edition": "1995"
@@ -477,8 +458,7 @@
       }
     ],
     "id": "pepsy",
-    "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/proto3/1/pepsy.html",
+    "abstract": "La plate-forme PEPSY est nécessaire pour acquérir un savoir faire de pointe dans le domaine de la mise en place des réseaux à très haut debit et desservices qui pourront s'y développer. En partenariat avec France Télécom etle CNET. PEPSY permettra aux membres du réseau régional SYRHANO de se familiariser avec ATM, et à FT de rôder cette nouvelle technologie qui pourra, après de nombreux tests et expériences réalisés avec des cobayes issus du monde de la Recherche, être proposée à un plus large public.",
     "pdflink": "https://1995.jres.org/actes/proto3/1/pepsy.pdf",
     "indexkey": "1995-pepsy",
     "edition": "1995"
@@ -500,8 +480,7 @@
       }
     ],
     "id": "requile",
-    "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/appli4/1/requile.html",
+    "abstract": "Cette application est du domaine public ; elle est devenue un standard de-facto pour les chercheurs qui s'interessent au calcul parallele. Ces methodes sont en pleine expansion aujourd'hui. PVM est base sur la technique du Passage de Message et utilise les protocoles de transport de l'INTERNET (TCP et UDP) pour realiser les communications entre process distants. Il ne s'agit pas d'un langage mais d'un logiciel (demons + bibliotheques+ console) qui permet a l'utilisateur de voir toutes les machines (au sens processeur) auxquelles il a acces comme une seule et unique machine multiprocesseur a memoire distribuee. PVM est desormais disponible sur la quasi totalite des plateformes de calcul scientifique (du Cray a la station de travail courante en passant par la machine explicitement multiprocesseur). Il est donc facilement exploitable dans une petite structure de recherche disposant de quelques stations UNIX en reseau IP et permet alors, sans investissement supplementaire, de mettre en oeuvre des algorithmes de parallelisation de programme.",
     "pdflink": "https://1995.jres.org/actes/appli4/1/requile.pdf",
     "indexkey": "1995-requile",
     "edition": "1995"
@@ -530,7 +509,6 @@
     ],
     "id": "listes",
     "abstract": "La présence de la cellule technique du CRU (Comité Réseau des Universités) dans les\\nlocaux du CRI de l’université de Rennes 1 a généré une grande activité autour des ”Listes de\\ndiffusion”. Cette activité d’abord assurée par un logiciel maison, est depuis 1993 gérée par le\\nlogiciel domaine public TULP.\\nLa prolifération des listes aussi bien à Rennes qu’ailleurs a fait ressentir le besoin d’un catalogue. À la création, ce catalogue était une énumération de listes hébergées sur des serveurs\\nfrançais ; c’est maintenant, une interface WWW qui offre :\\n– un catalogue de listes francophones,\\n– des formulaires pour s’abonner et se désabonner des listes,\\n– les archives de certaines listes,\\n– un formulaire pour demander la création de listes de diffusion,\\n– un formulaire pour la publication d’une liste dans le catalogue\\n– ...",
-    "diaporamalink": "https://1995.jres.org/actes/appli4/3/listes/listes.html",
     "pdflink": "https://1995.jres.org/actes/appli4/3/listes.pdf",
     "indexkey": "1995-listes",
     "edition": "1995"
@@ -557,8 +535,7 @@
       }
     ],
     "id": "sami",
-    "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/admin2/1/sami.html",
+    "abstract": "De plus en plus de macs sont connectes directement sur Ethernet. Pour profiter de la bande passante d'Ethernet et des services AppleTalk (en particulier l'impression et le partage de fichiers), le passage au protocole EtherTalk s'impose. L'objet de la presentation serait la description de la procedure de passage a EtherTalk : configuration des routeurs (Cisco), des passerelles AppleTalk (GatorBox) et installation du package CAP.",
     "pdflink": "https://1995.jres.org/actes/admin2/1/sami.pdf",
     "indexkey": "1995-sami",
     "edition": "1995"
@@ -578,8 +555,7 @@
       }
     ],
     "id": "roch",
-    "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/admin2/2/roch/roch.html",
+    "abstract": "L'Observatoire de Grenoble s'articule autour de 3 laboratoires physiquement distribués dans 3 batiments du Campus Universitaire de Grenoble. En 93, l'Observatoire et le CICG (Centre Interuniversitaire de Calcul de Grenoble) ont collaboré pour l'installation d'un réseau rapide FDDI reliant les serveurs principaux des 3 pôles de l'Observatoire, le centre commun de calcul intensif et le CICG. Cette opération a eu un impact non négligeable pour le partage de fichiers entre les différents sites mais également pour le calcul distribué.  Nous avons pu développer un outil permettant la manipulation de très grands fichiers (taille non limitée a 2 GO) en environnement distribué, avec de très bonnes performances. Nous présenterons quelques mesures de performances pour comparer les différents débits obtenus entre FDDI, Ethernet et Token Ring a différents niveaux : partage de données, calcul distribué, fichiers répartis.",
     "pdflink": "https://1995.jres.org/actes/admin2/2/roch.pdf",
     "indexkey": "1995-roch",
     "edition": "1995"
@@ -599,7 +575,6 @@
     ],
     "id": "ntp",
     "abstract": "Cet article traite d’un aspect souvent délaissé de l’administration des systèmes d’information : leur synchronisation horaire. Nous allons en voir la nécessité, les moyens à notre\\ndisposition pour y parvenir et leur mise en oeuvre.",
-    "diaporamalink": "https://1995.jres.org/actes/admin2/3/ntp/ntp.html",
     "pdflink": "https://1995.jres.org/actes/admin2/3/ntp.pdf",
     "indexkey": "1995-ntp",
     "edition": "1995"
@@ -618,8 +593,7 @@
       }
     ],
     "id": "favre",
-    "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/form1/1/favre.html",
+    "abstract": "L'expérimentation Minist<E8>re de l'Education Nationale (DITEN) - Renater et sa mise en oeuvre dans l'académie de Grenoble. Exemples d'usages pédagogiques avec des élèves. Exemples d'usages pour les enseignants. Autres systèmes de communication utilisés ou envisagés. Analyse des résultats.",
     "pdflink": "https://1995.jres.org/actes/form1/1/favre.pdf",
     "indexkey": "1995-favre",
     "edition": "1995"
@@ -644,8 +618,7 @@
       }
     ],
     "id": "adam",
-    "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/form1/2/adam.html",
+    "abstract": "Les reseaux locaux ouvrent des perspectives nouvelles pour l'usage de l'informatique dans l'enseignement. Dans le cadre des plans de renovation et de construction des etablissements scolaires, les collectivites territoriales donnent les moyens aux etablissements de se doter d'une infrastructure reseau,c'est-a-dire de relier par des voies de communication tous les lieux de travail de l'etablissement : salles de cours, salles de travaux pratiques, bureaux des enseignants et des administratifs, centre de documentation, salles de travail en libre acces, etc. Un etablissement ainsi cable dispose de possibilites bien plus etendues que le simple partage des ressources logicielles et materielles. C'est le moyen pour les enseignants et les etudiants de disposer a tout moment de l'outil informatique, si celui-ci est necessaire. Ceci modifie profondement les pratiques pedagogiques : l'ordinateur n'est plus considere comme un gadget ou un outil marginal pour la formation, mais comme un outil pedagogique complementaire, integre par les enseignants dans les activites pedagogiques. Pour reussir cette integration du reseau dans les pratiques des enseignants et des etudiants, des problemes importants sont a resoudre. Les reseaux d'etablissement ont en effet des caracteristiques bien specifiques qui n'ont pas ete prises en compte par les concepteurs des reseaux et des logiciels : le nombre d'usagers du reseau est important (de 400 a 2000 usagers references), le nombre de logiciels partages est eleve, les preripheriques sont nombreux. D'autre part, un usager ne travaille pas sur  une machine qui lui est propre, comme c'est en general le cas dans une societe, il partage avec tous les autres usagers l'ensemble des stations mises a leur disposition dans les differentes salles de l'etablissement. Les etudiants, et parfois aussi les enseignants, sont des nomades qui changent de salle plusieurs fois par jour ; ils ne retrouvent donc jamais la meme station de travail d'une seance a l'autre. A cela, s'ajoutent les problemes de l'acces aux peripheriques partageables, de la gestion de la communication, de l'acces aux logiciels et de leur personnalisation. La gestion d'un tel reseau local n'est pas une chose aisee, et demande des competences en informatique d'un niveau eleve, competences dont les etablissements scolaires ne disposent pas. Le but de notre travail est triple : etudier les problemes poses par la gestion d'un reseau local pedagogique, fournir des methodes et des outils qui permettent aux enseignants et aux etudiants d'exploiter les nouvelles ressources pedagogiques mises a leur disposition, aussi facilement que possible, et faciliter la gestion du reseau en proposant une organisation standard des serveurs, qui permette d'assurer facilement leur gestion, localement ou a distance (tele-assistance). Apres avoir expose les problemes etudies, nous presentons l'interface usager Altair (1), resultat de ce travail, et qui a ete concue pour tenter de repondre a ces objectifs. Nous en presentons les caracteristiques et les principales fonctionnalites :\n- interface graphique fonctionnant sur les plate-formes MS-DOS et MS-Windows, avec les reseaux locaux Lan manager et Windows NT Server (adaptations a Novell et TCP/IP-Unix a l'etude).\n- principales fonctions proposees : gestion simple des fichiers et des repertoires, connexion au reseau par mot de passe, acces simplifie aux logiciels et aux imprimantes, communication par message et par envoi de fichiers, acces a des ateliers (travaux prepare par un enseignant).\n- mise a disposition de chaque usager d'un espace de travail personnel sur un serveur, \n- fonctions destinees a l'enseignant (fonctions d'administration deleguees) : gestion de groupes d'usagers, gestion des droits d'acces aux logiciels, aux imprimantes, aux fonctions de communication, creation d'ateliers.  \n- installation entierement automatisee. \n Pour demontrer la generalisation de la solution proposee, nous presentons une experimentation en cours dans une trentaine d'etablissements de l'Academie de Grenoble. Nous proposons une strategie de montee en charge de ces outils, par etapes, dans tous les etablissements simultanement.",
     "pdflink": "https://1995.jres.org/actes/form1/2/adam.pdf",
     "indexkey": "1995-adam",
     "edition": "1995"
@@ -664,8 +637,7 @@
       }
     ],
     "id": "guidon",
-    "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/form1/3/guidon.html",
+    "abstract": "Le projet RECTO-VERSO est un projet franco-canadien qui vise a experimenter les technologies avancees de la communication dans le champ de la formation, en particulier pour le developpement de strategies innovantes pour l'apprentissage individuel et collectif, flexible et a distance. Ce projet reunit deux consortia associant de part et d'autre des competences complementaires (contenus, interfaces, technologies reseau). Cote francais ce groupe comprend l'Univ. Lille1 (Trigone-Cueep), l'Univ. du Mans (LIUM), l'Univ Paris 7 (LID), l'IRPEACS, le CNAM, le CNET...",
     "pdflink": "https://1995.jres.org/actes/form1/3/guidon.pdf",
     "indexkey": "1995-guidon",
     "edition": "1995"
@@ -690,8 +662,7 @@
       }
     ],
     "id": "gautier",
-    "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/admin3/1/gautier.html",
+    "abstract": "L'utilisation de Renater dans le cadre de la modernisation des delegation regionales du CNRS et la securite des systemes : infrastructure physique (systeme & reseau), architecture des systemes d'information de gestion mis en oeuvre dans les delegation regionales, principes de securite definis et mis en place.En gros, l'idee est de montrer les evolutions du systeme d'information de gestion du CNRS. Les applications sont basees historiquement sur des systemes proprietaires et utilisent pour dialoguer des reseaux X25 (avec terminaux passifs locaux en point a point). L'evolution consiste a les baser sur des systemes ouverts (Unix) utilisant Renater pour les echanges inter-sites avec des postes de travail banalises (reseau local Ethernet). C'est ce que nous sommes en train de faire actuellement. L'objectif est d'utiliser pour la gestion la meme infrastructure reseau et les memes outils que la communaute scientifique. Au dela de ces aspects architecture physique, ce qui me semble important de developper et montrer, c'est comment les aspects securite ont ete pris en compte et traites dans le cadre de cette operation.",
     "pdflink": "https://1995.jres.org/actes/admin3/1/gautier.pdf",
     "indexkey": "1995-gautier",
     "edition": "1995"
@@ -711,7 +682,6 @@
     ],
     "id": "renard",
     "abstract": "L’Inria est depuis 1987 l’autorité de nommage de l’Internet en France.\\nLe développement de l’Internet impose de garantir une qualité de service auprès de tous\\nles opérateurs qui mettent en oeuvre la connectivité de leurs utilisateurs, et de leur assurer la\\ncohérence des bases d’accès tant au niveau national qu’international.\\nLa mise en place d’une structure NIC France s’est imposée courant 1994. Un Comité de\\nConcertation, constitué des principaux opérateurs réseaux offrant, depuis la France une infrastructure d’accès Internet, a été crée à l’initiative de l’Inria.\\nLes missions du NIC portent essentiellement sur la gestion de l’espace de noms français,\\nl’exploitation du service de noms pour le domaine .fr, la coordination nationale et internationale.",
-    "diaporamalink": "https://1995.jres.org/actes/admin3/2/renard/renard.html",
     "pdflink": "https://1995.jres.org/actes/admin3/2/renard.pdf",
     "indexkey": "1995-renard",
     "edition": "1995"
@@ -730,8 +700,7 @@
       }
     ],
     "id": "vaisset",
-    "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/admin3/3/vaisset/vaisset.html",
+    "abstract": "L'informatique du LAAS est organisée autour d'un ensemble de stations de travail et serveurs UNIX. L'effectif de ces machines est passé de 11 en 1986 a 140 aujourd'hui. Nous nous proposons de présenter les techniques et strategies mises en oeuvre pour administrer l'espace disque de cet ensemble.",
     "pdflink": "https://1995.jres.org/actes/admin3/3/vaisset.pdf",
     "indexkey": "1995-vaisset",
     "edition": "1995"
@@ -750,8 +719,7 @@
       }
     ],
     "id": "rubat-du-merac",
-    "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/form2/1/rubat-du-merac.html",
+    "abstract": "Ce cours est propose par la formation continue de l'INPG. Il se deroule en trois modules de trois jours. Le cours a deja ete presente 4 fois depuis 92. Il a evolue avec les technologies, au prix d'un travail regulier de reprise des cours a chaque presentation. Son objectif est de donner a l'informaticien qui prend la responsabilite d'un reseau les pointeurs qui lui permettront de realiser concretement son reseau. Des travaux pratiques ont pu etre monte cette annee, et cette experience pratique sera meme developpee dans les prochaines versions du cours.",
     "pdflink": "https://1995.jres.org/actes/form2/1/rubat-du-merac.pdf",
     "indexkey": "1995-rubat-du-merac",
     "edition": "1995"
@@ -776,8 +744,7 @@
       }
     ],
     "id": "bouche",
-    "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/form2/2/bouche.html",
+    "abstract": "L'objet de la communication est de presenter ce qui se fait a l'Ecole dans le cadre de ces trois objectifs, de faire part d'une experience de quatre ans d'enseignement face a des populations d'eleves d'origines differentes mais souvent litteraire, et ne connaissant rien aux telecommunications. On fera part notamment des difficultes pedagogiques et techniques rencontrees et de l'evolution du programme en fonction de ces difficultes.",
     "pdflink": "https://1995.jres.org/actes/form2/2/bouche.pdf",
     "indexkey": "1995-bouche",
     "edition": "1995"
@@ -797,7 +764,6 @@
     ],
     "id": "autran",
     "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/admin4/1/autran.html",
     "pdflink": "https://1995.jres.org/actes/admin4/1/autran.pdf",
     "indexkey": "1995-autran",
     "edition": "1995"
@@ -817,7 +783,6 @@
     ],
     "id": "jean-francois",
     "abstract": "[]",
-    "diaporamalink": "https://1995.jres.org/actes/admin4/3/jean-francois.html",
     "pdflink": "https://1995.jres.org/actes/admin4/3/jean-francois.pdf",
     "indexkey": "1995-jean-francois",
     "edition": "1995"
@@ -837,8 +802,7 @@
       }
     ],
     "id": "mbone",
-    "diaporamalink": "https://1997.jres.org/articles/tutoriaux/mbone/applis/jres97/sld001.htm",
-    "additionnallink": "https://1997.jres.org/articles/tutoriaux/mbone/applis/jres97/sld001.htm",
+    "diaporamalink": "https://1997.jres.org/articles/tutoriaux/mbone.pdf",
     "type": "tuto long",
     "theme": "Réseau et infrastructures",
     "keywords": [
@@ -859,7 +823,7 @@
       }
     ],
     "id": "windows-nt",
-    "diaporamalink": "https://1997.jres.org/articles/tutoriaux/windows-nt/tuto-winnt/winnt.htm",
+    "diaporamalink": "https://1997.jres.org/articles/tutoriaux/windows-nt.pdf",
     "type": "tuto long",
     "theme": "Réseau et infrastructures",
     "keywords": [
@@ -880,7 +844,7 @@
       }
     ],
     "id": "ouverture",
-    "diaporamalink": "https://1997.jres.org/articles/ouverture/sld001.htm",
+    "diaporamalink": "https://1997.jres.org/articles/ouverture.pdf",
     "type": "plénière",
     "theme": "Réseau et infrastructures",
     "keywords": [
@@ -903,7 +867,7 @@
       }
     ],
     "id": "jres-pnni",
-    "diaporamalink": "https://1997.jres.org/articles/res1/drouin/jres-pnni/sld001.htm",
+    "diaporamalink": "https://1997.jres.org/articles/res1/drouin.pdf",
     "type": "présentation longue",
     "theme": "Réseau et infrastructures",
     "keywords": [
@@ -925,7 +889,7 @@
       }
     ],
     "id": "pradella",
-    "diaporamalink": "https://1997.jres.org/articles/res1/pradella/sld001.htm",
+    "diaporamalink": "https://1997.jres.org/articles/res1/pradella.pdf",
     "type": "présentation longue",
     "theme": "Réseau et infrastructures",
     "keywords": [
@@ -946,7 +910,7 @@
       }
     ],
     "id": "barthe",
-    "diaporamalink": "https://1997.jres.org/articles/res2/barthe/sld001.htm",
+    "diaporamalink": "https://1997.jres.org/articles/res2/barthe.pdf",
     "type": "présentation longue",
     "theme": "Réseau et infrastructures",
     "keywords": [
@@ -966,7 +930,6 @@
       }
     ],
     "id": "jres97lr",
-    "diaporamalink": "http://www.univ-lr.fr/cri/html/Vie_des_reseaux/jres97lr.html",
     "type": "présentation longue",
     "theme": "Réseau et infrastructures",
     "keywords": [
@@ -1011,7 +974,7 @@
       }
     ],
     "id": "picard",
-    "diaporamalink": "https://1997.jres.org/articles/res3/picard/titre-mac.html",
+    "diaporamalink": "https://1997.jres.org/articles/res3/picard.pdf",
     "type": "présentation longue",
     "theme": "Réseau et infrastructures",
     "keywords": [
@@ -1042,7 +1005,7 @@
       }
     ],
     "id": "joly",
-    "diaporamalink": "https://1997.jres.org/articles/res3/joly/opt/httpd3/documents/net/JRES97/sld001.htm",
+    "diaporamalink": "https://1997.jres.org/articles/res3/joly.pdf",
     "type": "présentation longue",
     "theme": "Réseau et infrastructures",
     "keywords": [
@@ -1062,7 +1025,7 @@
       }
     ],
     "id": "girard",
-    "diaporamalink": "https://1997.jres.org/articles/res4/girard/JC-Girard/JRES97p0.html",
+    "diaporamalink": "https://1997.jres.org/articles/res4/girard.pdf",
     "type": "présentation longue",
     "theme": "Réseau et infrastructures",
     "keywords": [
@@ -1082,7 +1045,7 @@
       }
     ],
     "id": "bortzmeyer",
-    "diaporamalink": "https://1997.jres.org/articles/res5/bortzmeyer/Spam/index.html",
+    "diaporamalink": "https://1997.jres.org/articles/res5/bortzmeyer.pdf",
     "type": "présentation longue",
     "theme": "Usages et Applications",
     "keywords": [
@@ -1103,7 +1066,7 @@
       }
     ],
     "id": "mayeur",
-    "diaporamalink": "https://1997.jres.org/articles/res5/mayeur/Res5_1/res5_1.html",
+    "diaporamalink": "https://1997.jres.org/articles/res5/mayeur.pdf",
     "type": "présentation longue",
     "theme": "Usages et Applications",
     "keywords": [
@@ -1123,7 +1086,7 @@
       }
     ],
     "id": "monchaud",
-    "diaporamalink": "https://1997.jres.org/articles/appli2/monchaud/color2/index.html",
+    "diaporamalink": "https://1997.jres.org/articles/appli2/monchaud.pdf",
     "type": "présentation longue",
     "theme": "Usages et Applications",
     "keywords": [
@@ -1163,7 +1126,7 @@
       }
     ],
     "id": "vidal",
-    "diaporamalink": "https://1997.jres.org/articles/appli2/vidal/sld001.htm",
+    "diaporamalink": "https://1997.jres.org/articles/appli2/vidal.pdf",
     "type": "présentation longue",
     "theme": "Usages et Applications",
     "keywords": [
@@ -1186,7 +1149,7 @@
       }
     ],
     "id": "houe",
-    "diaporamalink": "https://1997.jres.org/articles/appli3/houe/Welcome.html",
+    "diaporamalink": "https://1997.jres.org/articles/appli3/houe.pdf",
     "type": "présentation longue",
     "theme": "Sécurité",
     "keywords": [
@@ -1207,7 +1170,7 @@
       }
     ],
     "id": "chaumette",
-    "diaporamalink": "https://1997.jres.org/articles/appli3/chaumette/fslides/00020/findex.htm",
+    "diaporamalink": "https://1997.jres.org/articles/appli3/chaumette.pdf",
     "type": "présentation longue",
     "theme": "Usages et Applications",
     "keywords": [
@@ -1227,7 +1190,7 @@
       }
     ],
     "id": "monget",
-    "diaporamalink": "https://1997.jres.org/articles/appli4/monget/second/all.htm",
+    "diaporamalink": "https://1997.jres.org/articles/appli4/monget.pdf",
     "type": "présentation longue",
     "theme": "Usages et Applications",
     "keywords": [
@@ -1247,7 +1210,7 @@
       }
     ],
     "id": "guterl",
-    "diaporamalink": "https://1997.jres.org/articles/appli5/guterl/jres/jres4/index.htm",
+    "diaporamalink": "https://1997.jres.org/articles/appli5/guterl.pdf",
     "type": "présentation longue",
     "theme": "Réseau et infrastructures",
     "keywords": [
@@ -1280,7 +1243,7 @@
       }
     ],
     "id": "lemaire",
-    "diaporamalink": "https://1997.jres.org/articles/admin1/lemaire/index.htm",
+    "diaporamalink": "https://1997.jres.org/articles/admin1/lemaire.pdf",
     "type": "présentation longue",
     "theme": "Sécurité",
     "keywords": [
@@ -1310,7 +1273,7 @@
       }
     ],
     "id": "benech",
-    "diaporamalink": "https://1997.jres.org/articles/admin4/benech/index.htm",
+    "diaporamalink": "https://1997.jres.org/articles/admin4/benech.pdf",
     "type": "présentation longue",
     "theme": "Réseau et infrastructures",
     "keywords": [
@@ -1331,7 +1294,7 @@
       }
     ],
     "id": "lechevalier",
-    "diaporamalink": "https://1997.jres.org/articles/admin4/lechevalier/index.htm",
+    "diaporamalink": "https://1997.jres.org/articles/admin4/lechevalier.pdf",
     "type": "présentation longue",
     "theme": "Réseau et infrastructures",
     "keywords": [
@@ -1351,7 +1314,7 @@
       }
     ],
     "id": "billiart",
-    "diaporamalink": "https://1997.jres.org/articles/admin4/lechevalier/index.htm",
+    "diaporamalink": "https://1997.jres.org/articles/admin5/billiart.pdf",
     "type": "présentation longue",
     "theme": "Systèmes",
     "keywords": [
@@ -1376,7 +1339,7 @@
       }
     ],
     "id": "germes",
-    "diaporamalink": "https://1997.jres.org/articles/admin6/germes/slidestart.html",
+    "diaporamalink": "https://1997.jres.org/articles/admin6/germes.pdf",
     "type": "présentation longue",
     "theme": "Réseau et infrastructures",
     "keywords": [
@@ -1396,7 +1359,7 @@
       }
     ],
     "id": "unix",
-    "diaporamalink": "https://1997.jres.org/articles/sys1/bortzmeyer/Unix/index.html",
+    "diaporamalink": "https://1997.jres.org/articles/sys1/bortzmeyer.pdf",
     "type": "présentation longue",
     "theme": "Systèmes",
     "keywords": [
@@ -1500,7 +1463,7 @@
       "Windows",
       "SMB"
     ],
-    "diaporamalink": "https://1999.jres.org/tutoriaux/samba/tutorial2-samba.htm",
+    "diaporamalink": "https://1999.jres.org/tutoriaux/tutorial2-samba.pdf",
     "indexkey": "1999-samba",
     "edition": "1999"
   },
@@ -1908,7 +1871,7 @@
     "id": "eynard-sec-02-final",
     "abstract": "L’Institut de Biologie Structurale (IBS) est placé sous la double tutelle du CNRS et du\\nCEA. Sa population (180 personnes) se répartit à peu près également entre ces deux organismes. Il est composé de dix laboratoires ou équipes de recherches.\\nL’institut est implanté sur un site propre « hors les murs » des sites géographiquement\\nvoisins du CNRS et du CEA, et son réseau informatique, ainsi que sa connexion à\\nRENATER sont gérés indépendamment de ceux-ci. Toutefois des liens étroits sont nécessaires avec les départements de la Direction des Sciences du Vivant (DSV) du CEA. Ces\\nrelations privilégiées obligent à prendre en compte les règles de fonctionnement et de sécurité qui sont en vigueur au CEA. En particulier les intervenants « réseau » des départements de la DSV sont regroupés au sein de la Section pour les Systèmes d’Information et\\nla Coordination des Réseaux (SSICR), et un ingénieur assure à Grenoble la fonction\\nd’Agent de Sécurité des Systèmes d’information (ASSI).\\nL’IBS entretient aussi des liens privilégiés avec les organismes européens voisins : European Synchrotron Radiation Facility (ESRF), Institut Laue Langevin (ILL) et European Molecular Biology Laboratory (EMBL), qui ont leurs propres exigences concernant la sécurité\\ndes réseaux.\\nL’évolution de l’Internet et la mise en place chez nos partenaires de structures sécurisées\\nnous ont amenés à reconsidérer l’architecture de notre propre réseau, conçu initialement\\ncomme un réseau unique fonctionnellement « plat ». Après consultation de l’UREC/CNRS\\net de la Direction Informatique du CEA nous l’avons fait évoluer vers une structure comprenant deux réseaux fonctionnellement et physiquement distincts : un réseau « public »\\naccessible de l’Internet, et un réseau « prive » à priori non accessible de l’Internet, sauf\\npar l’intermédiaire d’un garde-barrière, et après demande de dérogation.\\nLes aspects organisationnel et technique de cette démarche sont exposés dans ce qui\\nsuit.",
     "pdflink": "https://1999.jres.org/articles/eynard-sec-02-final.pdf",
-    "diaporamalink": "https://1999.jres.org/zip/presentation/eynard/PresentationOrale/welcome.htm",
+    "diaporamalink": "https://1999.jres.org/zip/presentation/present-eynard.pdf",
     "indexkey": "1999-eynard-sec-02-final",
     "edition": "1999"
   },
@@ -1990,7 +1953,8 @@
       {
         "name": "Jean-Paul Gautier",
         "firstname": "Jean-Paul",
-        "lastname": "Gautier"
+        "lastname": "Gautier",
+        "organisme": "jean-paul.gautier@urec.cnrs.fr"
       }
     ],
     "theme": "Réseau et infrastructures",
@@ -2686,7 +2650,7 @@
     "id": "feltin-sec-05-final",
     "abstract": "Evaluation des \"Context-Based Access Control\" (CBAC), en site bêta pour CISCO, phase\\nII.\\nLa sécurité extérieure de notre réseau repose essentiellement sur des listes d\\'accès (ACL)\\nimplémentées sur notre routeur. Cette solution n\\'est pas satisfaisante, car un certain nombre d\\'applications utilise des ports dynamiques et non statiques, et les ACL ne savent pas\\nles traiter.",
     "pdflink": "https://1999.jres.org/articles/feltin-sec-05-final.pdf",
-    "diaporamalink": "https://1999.jres.org/zip/presentation/present-feltin.html",
+    "diaporamalink": "https://1999.jres.org/zip/presentation/present-feltin.pdf",
     "indexkey": "1999-feltin-sec-05-final",
     "edition": "1999"
   },
@@ -4598,7 +4562,7 @@
         "name": "François Morris",
         "firstname": "François ",
         "lastname": "Morris",
-        "organisme": "LMCP, Pari"
+        "organisme": "LMCP, Paris"
       }
     ],
     "keywords": [
@@ -15045,7 +15009,8 @@
         "sort_name": "Jeanvoine Emmanuel",
         "name": "Emmanuel Jeanvoine",
         "firstname": "Emmanuel",
-        "lastname": "Jeanvoine"
+        "lastname": "Jeanvoine",
+        "organisme": "INRIA"
       },
       {
         "id": 163,
@@ -15597,7 +15562,8 @@
         "sort_name": "Demarey Christophe",
         "name": "Christophe Demarey",
         "firstname": "Christophe",
-        "lastname": "Demarey"
+        "lastname": "Demarey",
+        "organisme": "INRIA"
       }
     ],
     "orator": 141,
@@ -19771,6 +19737,7 @@
         "id": 66,
         "sort_name": "VIBRAC Geoffroy",
         "name": "Geoffroy VIBRAC",
+        "organisme": "Université de Tours",
         "firstname": "Geoffroy",
         "lastname": "VIBRAC"
       }
@@ -38215,7 +38182,8 @@
         "sort_name": "Guezou Jean-françois",
         "firstname": "Jean-françois",
         "lastname": "Guezou",
-        "name": "Jean-françois Guezou"
+        "name": "Jean-françois Guezou",
+        "organisme": "Renater"
       },
       {
         "id": 1027,
@@ -38277,7 +38245,8 @@
         "sort_name": "Guezou Jean-françois",
         "firstname": "Jean-françois",
         "lastname": "Guezou",
-        "name": "Jean-françois Guezou"
+        "name": "Jean-françois Guezou",
+        "organisme": "Renater"
       },
       {
         "id": 1027,
@@ -47712,7 +47681,8 @@
         "sort_name": "Ninassi Benjamin",
         "firstname": "Benjamin",
         "lastname": "Ninassi",
-        "name": "Benjamin Ninassi"
+        "name": "Benjamin Ninassi",
+        "organisme": "INRIA"
       },
       {
         "id": 2597,
